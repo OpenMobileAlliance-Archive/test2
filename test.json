@@ -1,0 +1,134 @@
+{
+    "info": {
+       "publisher":"Open Mobile Alliance",
+        "version": "1.0",
+        "url":"http://openmobilealliance.org/wp/index.html"
+     },
+    "enabler": [ {
+      "name":"Lightweight Machine to Machine",
+      "abbr":"LightweightM2M",
+      "version":"1.0",
+      "date":"2012-Oct-02",
+      "status":"Candidate",
+      "documents": [ {
+            "title":"Lightweight Machine to Machine Requirements",
+            "status":"Candidate",
+            "version":"1.0",
+            "date":"2013-Dec-10",
+            "file_name":"OMA-RD-LightweightM2M-V1_0-20131210-C",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-RD-LightweightM2M-V1_0-20131210-C.pdf",
+            "abstract":"Document abstract extracted from the document",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"Enabler Release Definition for LightweightM2M",
+            "status":"Candidate",
+            "version":"1.0",
+            "date":"2016-Apr-07",
+            "file_name":"OMA-ERELD-LightweightM2M-V1_0-20160407-C",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-ERELD-LightweightM2M-V1_0-20160407-C.pdf",
+            "abstract":"Document abstract extracted from the document",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"OMA-ERP-LightweightM2M-V1_0-20160407-C",
+            "status":"Candidate",
+            "version":"1.0",
+            "date":"2016-Apr-07",
+            "file_name":"OMA-ERP-LightweightM2M-V1_0-20160407-C",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-ERP-LightweightM2M-V1_0-20160407-C.zip",
+            "abstract":"Zip package",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"Lightweight Machine to Machine Technical Specification",
+            "status":"Candidate",
+            "version":"1.0",
+            "date":"2016-Apr-07",
+            "file_name":"OMA-TS-LightweightM2M-V1_0-20160407-C",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-TS-LightweightM2M-V1_0-20160407-C.pdf",
+            "abstract":"Zip package",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
+            "status":"Candidate",
+            "version":"1.0",
+            "date":"2016-Apr-07",
+            "file_name":"OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
+            "abstract":"Zip package",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      }
+      ]
+    },
+{
+      "name":"Lightweight Machine to Machine",
+      "abbr":"LightweightM2M",
+      "version":"1.2",
+      "date":"2020-Nov-10",
+      "status":"Approved",
+      "documents": [ {
+            "title":"Lightweight Machine to Machine Technical Specification: Core",
+            "status":"Approved",
+            "version":"1.2",
+            "date":"2020-Nov-10",
+            "file_name":"OMA-TS-LightweightM2M_Core-V1_2-20201110-A",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf",
+            "abstract":"Document abstract extracted from the document",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"Lightweight Machine to Machine Technical Specification: Transport Bindings",
+            "status":"Approved",
+            "version":"1.2",
+            "date":"2020-Nov-10",
+            "file_name":"OMA-TS-LightweightM2M_Transport-V1_2-20201110-A",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf",
+            "abstract":"Document abstract extracted from the document",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"Lightweight Machine to Machine Requirements",
+            "status":"Approved",
+            "version":"1.2",
+            "date":"2020-Nov-10",
+            "file_name":"OMA-RD-LightweightM2M-V1_2-20201110-A",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-RD-LightweightM2M-V1_2-20201110-A.pdf",
+            "abstract":"Document abstract extracted from the document",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"Enabler Release Definition for LightweightM2M",
+            "status":"Approved",
+            "version":"1.2",
+            "date":"2020-Nov-10",
+            "file_name":"OMA-ERELD-LightweightM2M-V1_2-20201110-A",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERELD-LightweightM2M-V1_2-20201110-A.pdf",
+            "abstract":"Document abstract extracted from the document",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"OMA-ERP-LightweightM2M-V1_2-20201110-A",
+            "status":"Approved",
+            "version":"1.2",
+            "date":"2020-Nov-10",
+            "file_name":"OMA-ERP-LightweightM2M-V1_2-20201110-A",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERP-LightweightM2M-V1_2-20201110-A.zip",
+            "abstract":"Zip package",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      },
+      {
+            "title":"OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd",
+            "status":"Approved",
+            "version":"1.1",
+            "date":"2018-Jul-10",
+            "file_name":"OMA-SUP-XML_LWM2M-V1_1-20180710-A",
+            "url":"http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd",
+            "abstract":"Zip package",
+            "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
+      }
+      ]
+    }
+   ]
+}
