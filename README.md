@@ -20,3 +20,4 @@
 * Decide what to do with OMA other flora. Should we also include the documents from previous organizations?
 * Evaluate if this new system will be easy for us to maintain
 * Define an API web service that query the JSON file
+* Define a crawler to extract info from the FTP & documents (abstract)
