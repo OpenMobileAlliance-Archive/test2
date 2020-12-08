@@ -12,9 +12,9 @@
       "tags":["tag1", "tag2", "tag3", "tag4"],
           "versions":[ {
               "version":"1.0",
-              "publication":"2012-Oct-02",
+              "publication_date":"2012-Oct-02",
               "status":"Candidate",
-              "updated":"Nov-2012",
+              "updated_date":"Nov-2012",
               "tags":["tag1", "tag2", "tag3", "tag4"],
               "documents": [ {
                     "mime_type":"application/pdf",
@@ -75,7 +75,7 @@
             },
         {
               "version":"1.2",
-              "publication":"2020-Nov-10",
+              "publication_date":"2020-Nov-10",
               "status":"Approved",
               "updated":"Nov-2020",
               "tags":["tag1", "tag2", "tag3", "tag4"],
