@@ -4,7 +4,7 @@
         "version": "1.0",
         "url":"http://openmobilealliance.org/wp/index.html"
      },
-    "enabler": [ {
+    "publications": [ {
       "name":"Lightweight Machine to Machine",
       "abbr":"LightweightM2M",
       "resources":["lwm2m_logo", "lwm2m_bugs", "lwm2m_registry", "lm2m_editor", "lwm2m_overview", "lwm2m_github"],
@@ -17,6 +17,7 @@
               "updated":"Nov-2012",
               "tags":["tag1", "tag2", "tag3", "tag4"],
               "documents": [ {
+                    "mime_type":"application/pdf",
                     "title":"Lightweight Machine to Machine Requirements",
                     "status":"Candidate",
                     "version":"1.0",
@@ -27,6 +28,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"Enabler Release Definition for LightweightM2M",
                     "status":"Candidate",
                     "version":"1.0",
@@ -37,6 +39,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"OMA-ERP-LightweightM2M-V1_0-20160407-C",
                     "status":"Candidate",
                     "version":"1.0",
@@ -47,6 +50,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"Lightweight Machine to Machine Technical Specification",
                     "status":"Candidate",
                     "version":"1.0",
@@ -57,6 +61,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
                     "status":"Candidate",
                     "version":"1.0",
@@ -75,6 +80,7 @@
               "updated":"Nov-2020",
               "tags":["tag1", "tag2", "tag3", "tag4"],
               "documents": [ {
+                    "mine_type":"pdf",
                     "title":"Lightweight Machine to Machine Technical Specification: Core",
                     "status":"Approved",
                     "version":"1.2",
@@ -85,6 +91,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"Lightweight Machine to Machine Technical Specification: Transport Bindings",
                     "status":"Approved",
                     "version":"1.2",
@@ -95,6 +102,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"Lightweight Machine to Machine Requirements",
                     "status":"Approved",
                     "version":"1.2",
@@ -105,6 +113,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"Enabler Release Definition for LightweightM2M",
                     "status":"Approved",
                     "version":"1.2",
@@ -115,6 +124,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"OMA-ERP-LightweightM2M-V1_2-20201110-A",
                     "status":"Approved",
                     "version":"1.2",
@@ -125,6 +135,7 @@
                     "tags": [ "tag1", "tag2","tag3", "tag4", "tag5" ]
               },
               {
+                    "mine_type":"pdf",
                     "title":"OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd",
                     "status":"Approved",
                     "version":"1.1",
