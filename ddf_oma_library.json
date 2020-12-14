@@ -105,7 +105,7 @@
               "updated_date":
                           {
                              "year":"2012",
-                             "month":"11"
+                             "month":"Nov"
                           },
               "tags":["tag1", "tag2", "tag3", "tag4"],
               "documents": [ {
@@ -116,7 +116,7 @@
                     "date":
                           {
                              "year":"2013",
-                             "month":"12",
+                             "month":"Dec",
                              "day":"10"
                           },
                     "file_name":"OMA-RD-LightweightM2M-V1_0-20131210-C",
@@ -132,7 +132,7 @@
                     "date":
                           {
                              "year":"2016",
-                             "month":"04",
+                             "month":"Apr",
                              "day":"07"
                           },
                     "file_name":"OMA-ERELD-LightweightM2M-V1_0-20160407-C",
@@ -148,7 +148,7 @@
                     "date":
                           {
                              "year":"2016",
-                             "month":"04",
+                             "month":"Apr",
                              "day":"07"
                           },
                     "file_name":"OMA-ERP-LightweightM2M-V1_0-20160407-C",
@@ -164,7 +164,7 @@
                     "date":
                           {
                              "year":"2016",
-                             "month":"04",
+                             "month":"Apr",
                              "day":"07"
                           },
                     "file_name":"OMA-TS-LightweightM2M-V1_0-20160407-C",
@@ -180,7 +180,7 @@
                     "date":
                           {
                              "year":"2016",
-                             "month":"04",
+                             "month":"Apr",
                              "day":"07"
                           },
                     "file_name":"OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
@@ -195,14 +195,14 @@
               "publication_date":
                           {
                              "year":"2020",
-                             "month":"11",
+                             "month":"Nov",
                              "day":"10"
                           },
               "status":"Approved",
               "updated_date":
                           {
                              "year":"2020",
-                             "month":"11"
+                             "month":"Nov"
                           },              
               "tags":["tag1", "tag2", "tag3", "tag4"],
               "documents": [ {
