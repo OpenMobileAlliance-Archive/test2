@@ -2,40 +2,47 @@
     "info": {
         "publisher": "Open Mobile Alliance",
         "version": "1.0",
-        "url": "http://openmobilealliance.org/wp/index.html"
+        "url": "http://openmobilealliance.org/wp/index.html",
+        "about": "about organization"
     },
     "publications": [
         {
             "name": "Lightweight Machine to Machine",
             "abbr": "LightweightM2M",
+            "description":"description to be added",
             "resources": [
                 {
                     "name": "LwM2M logo",
-                    "url": "https://www.",
-                    "icon": "/images/lwm2m_logo.png"
+                    "type": "image",
+                    "url": "https://www."
                 },
                 {
                     "name": "LwM2M Bugs",
+                    "type": "issues",
                     "url": "https://www.",
                     "icon": "/images/bug.png"
                 },
                 {
                     "name": "LwM2M Registry",
+                    "type": "registry",
                     "url": "https://github.com/OpenMobileAlliance/lwm2m-registry",
                     "icon": "/images/registry.png"
                 },
                 {
                     "name": "LwM2M Editor",
+                    "type": "tool",
                     "url": "https://devtoolkit.openmobilealliance.org/OEditor/default.aspx",
                     "icon": "/images/lwm2m_logo.png"
                 },
                 {
                     "name": "LwM2M Overview",
+                    "type": "documentation",
                     "url": "http://www.openmobilealliance.org/wp/Overviews/lightweightm2m_overview.html",
                     "icon": "/images/overview.png"
                 },
                 {
                     "name": "PDF/HTML",
+                    "type": "tool",
                     "url": "https://www.md2html-tool.com/#/",
                     "icon": "/images/pdf_html.png"
                 }
@@ -115,7 +122,7 @@
                     "status": "Candidate",
                     "updated_date": {
                         "year": "2012",
-                        "month":"Nov"
+                        "month":"11"
                     },
                     "tags": [
                         "tag1",
@@ -131,7 +138,7 @@
                             "version": "1.0",
                             "date": {
                                 "year":  "2013",
-                                "month": "Dec",
+                                "month": "12",
                                 "day":   "10"
                             },
                             "file_name": "OMA-RD-LightweightM2M-V1_0-20131210-C",
@@ -152,7 +159,7 @@
                             "version": "1.0",
                             "date": {
                                 "year":  "2016",
-                                "month": "Apr",
+                                "month": "04",
                                 "day":   "07"
                             },
                             "file_name": "OMA-ERELD-LightweightM2M-V1_0-20160407-C",
@@ -167,13 +174,13 @@
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
+                            "mime_type": "application/zip",
                             "title": "OMA-ERP-LightweightM2M-V1_0-20160407-C",
                             "status": "Candidate",
                             "version": "1.0",
                             "date": {
                                 "year":  "2016",
-                                "month": "Apr",
+                                "month": "04",
                                 "day":   "07"
                             },
                             "file_name": "OMA-ERP-LightweightM2M-V1_0-20160407-C",
@@ -194,12 +201,12 @@
                             "version": "1.0",
                             "date": {
                                 "year":  "2016",
-                                "month": "Apr",
+                                "month": "04",
                                 "day":   "07"
                             },
                             "file_name": "OMA-TS-LightweightM2M-V1_0-20160407-C",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-TS-LightweightM2M-V1_0-20160407-C.pdf",
-                            "abstract": "Zip package",
+                            "abstract": "Document abstract extracted from the document",
                             "tags": [
                                 "tag1",
                                 "tag2",
@@ -209,18 +216,18 @@
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
+                            "mime_type": "application/txt",
                             "title": "OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
                             "status": "Candidate",
                             "version": "1.0",
                             "date": {
                                 "year":  "2016",
-                                "month": "Apr",
+                                "month": "04",
                                 "day":   "07"
                             },
                             "file_name": "OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
-                            "abstract": "Zip package",
+                            "abstract": "Document abstract extracted from the file",
                             "tags": [
                                 "tag1",
                                 "tag2",
@@ -235,13 +242,13 @@
                     "version": "1.2",
                     "publication_date": {
                         "year": "2020",
-                        "month": "Nov",
+                        "month": "11",
                         "day": "10"
                     },
                     "status": "Approved",
                     "updated_date": {
                         "year":  "2020",
-                        "month": "Nov"
+                        "month": "11"
                     },
                     "tags": [
                         "tag1",
@@ -335,7 +342,7 @@
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
+                            "mime_type": "application/zip",
                             "title": "OMA-ERP-LightweightM2M-V1_2-20201110-A",
                             "status": "Approved",
                             "version": "1.2",
@@ -356,7 +363,7 @@
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
+                            "mime_type": "application/xml",
                             "title": "OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd",
                             "status": "Approved",
                             "version": "1.1",
