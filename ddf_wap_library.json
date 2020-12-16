@@ -1,0 +1,168 @@
+{
+    "info": {
+        "publisher": "Wireless Applicatin Protocol",
+        "abbr":"WAP",
+        "version": "1.0",
+        "url": "http://openmobilealliance.org/wp/Affiliates/WAP.html",
+        "about": "about organization"
+    },
+    "publications": [
+        {
+            "name": "Wireless Application Protocol",
+            "abbr": "WAP",
+            "description":"description to be added",
+            "resources": [
+                {
+                    "name": "",
+                    "type": "",
+                    "url": ""
+                }
+            ],
+            "linked": [
+                {
+                    "name": "",
+                    "url": ""
+                }
+            ],
+            "tags": [
+                "tag1",
+                "tag2",
+                "tag3",
+                "tag4"
+            ],
+            "versions": [
+                {
+                    "version": "2.0",
+                    "publication_date": {
+                        "year":  "2001",
+                        "month": "07",
+                        "day":   "12"
+                    },
+                    "status": "Approved",
+                    "updated_date": {
+                        "year": "2001",
+                        "month":"07"
+                    },
+                    "tags": [
+                        "tag1",
+                        "tag2",
+                        "tag3",
+                        "tag4"
+                    ],
+                    "documents": [
+                        {
+                            "mime_type": "application/pdf",
+                            "func_area":"Architecture",
+                            "title": "Wireless Application Protocol Architecture Specification",
+                            "status": "Approved",
+                            "version": "",
+                            "date": {
+                                "year":  "2001",
+                                "month": "07",
+                                "day":   "12"
+                            },
+                            "file_name": "WAP-210-WAPArch-20010712-a",
+                            "url": "http://www.openmobilealliance.org/tech/affiliates/wap/wap-210-waparch-20010712-a.pdf",
+                            "abstract": "Document abstract extracted from the document",
+                            "tags": [
+                                "tag1",
+                                "tag2",
+                                "tag3",
+                                "tag4",
+                                "tag5"
+                            ]
+                        },
+                        {
+                            "mime_type": "application/pdf",
+                            "func_area":"Client ID",
+                            "title": "WAP Client ID Specification",
+                            "status": "Approved",
+                            "version": "",
+                            "date": {
+                                "year":  "2001",
+                                "month": "04",
+                                "day":   "09"
+                            },
+                            "file_name": "WAP-196-ClientID-20010409-a",
+                            "url": "http://www.openmobilealliance.org/tech/affiliates/wap/wap-196-clientId-20010409-a.pdf",
+                            "abstract": "Document abstract extracted from the document",
+                            "tags": [
+                                "tag1",
+                                "tag2",
+                                "tag3",
+                                "tag4",
+                                "tag5"
+                            ]
+                        },
+                        {
+                            "mime_type": "application/pdf",
+                            "func_area":"Client Provisioning",
+                            "title": "Provisioning architecture overview",
+                            "status": "Approved",
+                            "version": "",
+                            "date": {
+                                "year":  "2001",
+                                "month": "03",
+                                "day":   "14"
+                            },
+                            "file_name": "WAP-182-ProvArch-20010314-a",
+                            "url": "http://www.openmobilealliance.org/tech/affiliates/wap/wap-182-provarch-20010314-a.pdf",
+                            "abstract": "Zip package",
+                            "tags": [
+                                "tag1",
+                                "tag2",
+                                "tag3",
+                                "tag4",
+                                "tag5"
+                            ]
+                        },
+                        {
+                            "mime_type": "application/pdf",
+                            "func_area":"Client Provisioning",
+                            "title": "Provisioning Content Type Specification",
+                            "status": "Approved",
+                            "version": "",
+                            "date": {
+                                "year":  "2001",
+                                "month": "07",
+                                "day":   "24"
+                            },
+                            "file_name": "WAP-183-ProvCont-20010724-a",
+                            "url": "http://www.openmobilealliance.org/tech/affiliates/wap/wap-183-provcont-20010724-a.pdf",
+                            "abstract": "Document abstract extracted from the document",
+                            "tags": [
+                                "tag1",
+                                "tag2",
+                                "tag3",
+                                "tag4",
+                                "tag5"
+                            ]
+                        },
+                        {
+                            "mime_type": "application/txt",
+                            "func_area":"Client Provisioning",
+                            "title": "Provisioning Content Type SIN 003",
+                            "status": "Approved",
+                            "version": "",
+                            "date": {
+                                "year":  "2001",
+                                "month": "09",
+                                "day":   "12"
+                            },
+                            "file_name": "WAP-183_003-ProvCont-20010912-a",
+                            "url": "http://www.openmobilealliance.org/tech/affiliates/wap/wap-183_003-provcont-20010912-a.pdf",
+                            "abstract": "Document abstract extracted from the file",
+                            "tags": [
+                                "tag1",
+                                "tag2",
+                                "tag3",
+                                "tag4",
+                                "tag5"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
