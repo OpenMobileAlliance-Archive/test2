@@ -1,6 +1,7 @@
 {
     "info": {
         "publisher": "Open Mobile Alliance",
+        "abbr":"OMA",
         "version": "1.0",
         "url": "http://openmobilealliance.org/wp/index.html",
         "about": "about organization"
@@ -133,6 +134,7 @@
                     "documents": [
                         {
                             "mime_type": "application/pdf",
+                            "doc_type":"Requirements",
                             "title": "Lightweight Machine to Machine Requirements",
                             "status": "Candidate",
                             "version": "1.0",
@@ -154,6 +156,7 @@
                         },
                         {
                             "mime_type": "application/pdf",
+                            "doc_type":"Enabler Release Definition",
                             "title": "Enabler Release Definition for LightweightM2M",
                             "status": "Candidate",
                             "version": "1.0",
@@ -175,6 +178,7 @@
                         },
                         {
                             "mime_type": "application/zip",
+                            "doc_type":"Enabler Release Package",
                             "title": "OMA-ERP-LightweightM2M-V1_0-20160407-C",
                             "status": "Candidate",
                             "version": "1.0",
@@ -196,6 +200,7 @@
                         },
                         {
                             "mime_type": "application/pdf",
+                            "doc_type":"Technical Specification",
                             "title": "Lightweight Machine to Machine Technical Specification",
                             "status": "Candidate",
                             "version": "1.0",
@@ -217,6 +222,7 @@
                         },
                         {
                             "mime_type": "application/txt",
+                            "doc_type":"Supporting File TXT",
                             "title": "OMA-SUP-XML_LWM2M_Access_Control-V1_0-20160407-C.txt",
                             "status": "Candidate",
                             "version": "1.0",
@@ -259,6 +265,7 @@
                     "documents": [
                         {
                             "mime_type": "application/pdf",
+                            "doc_type":"Technical Specification",
                             "title": "Lightweight Machine to Machine Technical Specification: Core",
                             "status": "Approved",
                             "version": "1.2",
@@ -280,6 +287,7 @@
                         },
                         {
                             "mime_type": "application/pdf",
+                            "doc_type":"Technical Specification",
                             "title": "Lightweight Machine to Machine Technical Specification: Transport Bindings",
                             "status": "Approved",
                             "version": "1.2",
@@ -301,6 +309,7 @@
                         },
                         {
                             "mime_type": "application/pdf",
+                            "doc_type":"Requirements",
                             "title": "Lightweight Machine to Machine Requirements",
                             "status": "Approved",
                             "version": "1.2",
@@ -322,6 +331,7 @@
                         },
                         {
                             "mime_type": "application/pdf",
+                            "doc_type":"Enabler Release Definition",
                             "title": "Enabler Release Definition for LightweightM2M",
                             "status": "Approved",
                             "version": "1.2",
@@ -343,6 +353,7 @@
                         },
                         {
                             "mime_type": "application/zip",
+                            "doc_type":"Enabler Release Package",
                             "title": "OMA-ERP-LightweightM2M-V1_2-20201110-A",
                             "status": "Approved",
                             "version": "1.2",
@@ -364,6 +375,7 @@
                         },
                         {
                             "mime_type": "application/xml",
+                            "doc_type":"Supporting File XML",
                             "title": "OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd",
                             "status": "Approved",
                             "version": "1.1",
