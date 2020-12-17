@@ -1,0 +1,262 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://www.",
+    "title": "OMA Specifications Library",
+    "description": "This JSON schema describes the metadata and structure or OMA Specifications Library",
+    "type": "object",
+    "properties": {
+      "organization": {
+        "type": "object",
+        "properties": {
+          "publisher": {
+            "type": "string"
+          },
+          "abbr": {
+            "type": "string"
+          },
+          "version": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "about": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "publisher",
+          "version",
+          "url",
+          "about"
+        ]
+      },
+      "publications": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "abbr": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "resources": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "type": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      },
+                      "icon": {
+                        "type": "string"
+                      }
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                  }
+                ]
+              },
+              "linked": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                ]
+              },
+              "tags": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "versions": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "version": {
+                        "type": "string"
+                      },
+                      "publication_date": {
+                        "type": "object",
+                        "properties": {
+                          "year": {
+                            "type": "string",
+                            "pattern": "^[0-9]{4}$"
+                          },
+                          "month": {
+                            "type": "string",
+                            "pattern": "^[1-12]{2}$"
+                          },
+                          "day": {
+                            "type": "string",
+                            "pattern": "^[1-31]{2}$"
+                          }
+                        },
+                        "required": [
+                          "year",
+                          "month",
+                          "day"
+                        ]
+                      },
+                      "status": {
+                        "type": "string"
+                      },
+                      "updated_date": {
+                        "type": "object",
+                        "properties": {
+                          "year": {
+                            "type": "string"
+                          },
+                          "month": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "year",
+                          "month"
+                        ]
+                      },
+                      "tags": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "string"
+                          }
+                        ]
+                      },
+                      "documents": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "mime_type": {
+                                "type": "string"
+                              },
+                              "func_area": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "date": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string",
+                                    "pattern": "^[0-9]{4}$"
+                                  },
+                                  "month": {
+                                    "type": "string",
+                                    "pattern": "^[1-2]{2}$"
+                                  },
+                                  "day": {
+                                    "type": "string",
+                                    "pattern": "^[1-31]{2}$"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "file_name": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "tags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "mime_type",
+                              "func_area",
+                              "title",
+                              "status",
+                              "version",
+                              "date",
+                              "file_name",
+                              "url"
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "required": [
+                      "version",
+                      "publication_date",
+                      "status"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "name",
+              "description"
+            ]
+          }
+        ]
+      }
+    },
+    "required": [
+      "organization",
+      "publications"
+    ]
+  }
