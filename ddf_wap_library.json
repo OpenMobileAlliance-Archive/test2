@@ -4,7 +4,8 @@
         "abbr":"WAP",
         "version": "1.0",
         "url": "http://openmobilealliance.org/wp/Affiliates/WAP.html",
-        "about": "about organization"
+        "about": "about organization",
+        "email":"helpdesk@omaorg.org"
     },
     "publications": [
         {

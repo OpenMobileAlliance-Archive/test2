@@ -18,21 +18,28 @@
             "type": "string"
           },
           "url": {
-            "type": "string"
+            "type": "string",
+            "format":"uri"
           },
           "about": {
             "type": "string"
+          },
+          "email": {
+            "type": "string",
+            "format": "email"
           }
         },
         "required": [
           "publisher",
           "version",
           "url",
-          "about"
+          "about",
+          "email"
         ]
       },
       "publications": {
         "type": "array",
+        "uniqueItems": true,
         "items": [
           {
             "type": "object",
@@ -48,6 +55,7 @@
               },
               "resources": {
                 "type": "array",
+                "uniqueItems": true,
                 "items": [
                   {
                     "type": "object",
@@ -59,10 +67,12 @@
                         "type": "string"
                       },
                       "url": {
-                        "type": "string"
+                        "type": "string",
+                        "format":"uri"
                       },
                       "icon": {
-                        "type": "string"
+                        "type": "string",
+                        "format":"uri"
                       }
                     },
                     "minItems": 1,
@@ -72,6 +82,7 @@
               },
               "linked": {
                 "type": "array",
+                "uniqueItems": true,
                 "items": [
                   {
                     "type": "object",
@@ -80,7 +91,8 @@
                         "type": "string"
                       },
                       "url": {
-                        "type": "string"
+                        "type": "string",
+                        "format":"uri"
                       }
                     }
                   }
@@ -88,6 +100,7 @@
               },
               "tags": {
                 "type": "array",
+                "uniqueItems": true,
                 "items": [
                   {
                     "type": "string"
@@ -96,6 +109,7 @@
               },
               "versions": {
                 "type": "array",
+                "uniqueItems": true,
                 "items": [
                   {
                     "type": "object",
@@ -126,7 +140,8 @@
                         ]
                       },
                       "status": {
-                        "type": "string"
+                        "type": "string",
+                        "enum":["Draft", "Candidate", "Approved", "Historic"]
                       },
                       "updated_date": {
                         "type": "object",
@@ -145,6 +160,7 @@
                       },
                       "tags": {
                         "type": "array",
+                        "uniqueItems": true,
                         "items": [
                           {
                             "type": "string"
@@ -153,6 +169,7 @@
                       },
                       "documents": {
                         "type": "array",
+                        "uniqueItems": true,
                         "items": [
                           {
                             "type": "object",
@@ -167,7 +184,8 @@
                                 "type": "string"
                               },
                               "status": {
-                                "type": "string"
+                                "type": "string",
+                                "enum":["Draft", "Candidate", "Approved", "Historic"]
                               },
                               "version": {
                                 "type": "string"
@@ -198,13 +216,15 @@
                                 "type": "string"
                               },
                               "url": {
-                                "type": "string"
+                                "type": "string",
+                                "format":"uri"
                               },
                               "abstract": {
                                 "type": "string"
                               },
                               "tags": {
                                 "type": "array",
+                                "uniqueItems": true,
                                 "items": [
                                   {
                                     "type": "string"

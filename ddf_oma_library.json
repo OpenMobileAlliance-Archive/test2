@@ -3,7 +3,7 @@
         "publisher": "Open Mobile Alliance",
         "abbr":"OMA",
         "version": "1.0",
-        "url": "http://openmobilealliance.org/wp/index.html",
+        "uri": "http://openmobilealliance.org/wp/index.html",
         "about": "about organization"
     },
     "publications": [
