@@ -44,7 +44,7 @@
                     "uniqueItems": true,
                     "properties": {
                       "resourceType": { "type": "string",
-                      "enum":["Logo", "Issues", "Registry", "Editor", "Overview", "MD2HTML", "Dependency", null ]
+                        "enum":["Logo", "Image", "Issue", "Registry", "Editor", "Overview", "MD2HTML", "Dependency", null ]
                       },
                       "name": { "type": "string" },
                       "url": {
@@ -55,13 +55,7 @@
                   }
                 ]
               },
-              "tags": {
-                "type": "array",
-                "uniqueItems": true,
-                "items": [
-                  { "type": "string" }
-                ]
-              },
+              "projectTags": { "$ref": "#/definitions/tags" },
               "versions": {
                 "type": "array",
                 "uniqueItems": true,
@@ -69,23 +63,19 @@
                     "type": "object",
                     "properties": {
                       "version": { "type": "string" },
-                      "publication_date": {
+                      "publicationDate": {
                         "$ref": "#/definitions/date",
                         "required": [ "year","month", "day" ] 
                        },
                       "status": {
                         "type": "string",
-                        "enum":["Draft", "Candidate", "Approved", "Historic"] 
+                        "enum":["Draft", "Candidate", "Approved", "Historic", null] 
                        },
                       "updatedDate": { 
                         "$ref": "#/definitions/date",
                         "required": [ "year", "month" ] 
                        },
-                      "tags": {
-                         "type": "array",
-                         "uniqueItems": true,
-                         "items": [ { "type": "string" } ] 
-                        },
+                      "versionTags": { "$ref": "#/definitions/tags" },
                       "publishedContents": 
                         {
                             "type": "array",
@@ -111,13 +101,7 @@
                                     "format":"uri"
                                   },
                                   "abstract": { "type": "string" },
-                                  "tags": {
-                                    "type": "array",
-                                    "uniqueItems": true,
-                                    "items": [
-                                      { "type": "string" }
-                                    ]
-                                  }
+                                  "contentTags": { "$ref": "#/definitions/tags" }
                                 },
                                 "required": [ "contentMediaType", "funcionalArea", "title", "status", "version", "contentDate", "fileName", "url"
                                 ]
@@ -139,13 +123,20 @@
     "required": [ "organization", "projects" ],
     "definitions": {
           "date": {
-          "type": "object",
-          "properties": {
-            "year": { "type": "string", "pattern": "^[0-9]{4}$" },
-            "month":{ "type": "string", "pattern": "^[1-12]{2}$" },
-            "date": { "type": "string", "pattern": "^[1-31]{2}$" }
-          }
-      }
+            "type": "object",
+            "properties": {
+              "year": { "type": "string", "pattern": "^[0-9]{4}$" },
+              "month":{ "type": "string", "pattern": "^[1-12]{2}$" },
+              "date": { "type": "string", "pattern": "^[1-31]{2}$" }
+            }
+      },
+          "tags": {
+             "type": "array",
+             "uniqueItems": true,
+             "properties": {
+             "items": [ { "type": "string" } ] 
+            }
+        }
     }
   }
   
