@@ -1,17 +1,19 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "id": "http://www.",
+    "$comment": "Decide what version of the JSON schema should be ponting to",
+    "id": "http://www.openmobilealliance.org/tech/profiles/oma_ddf_library_schema.json",
     "title": "OMA Specifications Library",
     "description": "This JSON schema describes the metadata and structure or OMA Specifications Library",
+    "default":"default_value", 
     "type": "object",
     "properties": {
       "organization": {
         "type": "object",
         "properties": {
-          "publisher": {
+          "name": {
             "type": "string"
           },
-          "abbr": {
+          "abbreviation": {
             "type": "string"
           },
           "version": {
@@ -30,14 +32,15 @@
           }
         },
         "required": [
-          "publisher",
+          "name",
+          "abbreviation",
           "version",
           "url",
           "about",
           "email"
         ]
       },
-      "publications": {
+      "projects": {
         "type": "array",
         "uniqueItems": true,
         "items": [
@@ -47,7 +50,7 @@
               "name": {
                 "type": "string"
               },
-              "abbr": {
+              "abbreviation": {
                 "type": "string"
               },
               "description": {
@@ -57,44 +60,22 @@
                 "type": "array",
                 "uniqueItems": true,
                 "items": [
-                  {
+                  {                    
                     "type": "object",
                     "properties": {
+                      "resourceType": {
+                        "type": "string"
+                      },
                       "name": {
                         "type": "string"
                       },
-                      "type": {
-                        "type": "string"
-                      },
                       "url": {
-                        "type": "string",
-                        "format":"uri"
-                      },
-                      "icon": {
                         "type": "string",
                         "format":"uri"
                       }
                     },
                     "minItems": 1,
                     "uniqueItems": true
-                  }
-                ]
-              },
-              "linked": {
-                "type": "array",
-                "uniqueItems": true,
-                "items": [
-                  {
-                    "type": "object",
-                    "properties": {
-                      "name": {
-                        "type": "string"
-                      },
-                      "url": {
-                        "type": "string",
-                        "format":"uri"
-                      }
-                    }
                   }
                 ]
               },
@@ -167,17 +148,17 @@
                           }
                         ]
                       },
-                      "documents": {
+                      "publishedContents": {
                         "type": "array",
                         "uniqueItems": true,
                         "items": [
                           {
                             "type": "object",
                             "properties": {
-                              "mime_type": {
+                              "contentMediaType": {
                                 "type": "string"
                               },
-                              "func_area": {
+                              "functionalArea": {
                                 "type": "string"
                               },
                               "title": {
@@ -205,12 +186,7 @@
                                     "type": "string",
                                     "pattern": "^[1-31]{2}$"
                                   }
-                                },
-                                "required": [
-                                  "year",
-                                  "month",
-                                  "day"
-                                ]
+                                }
                               },
                               "file_name": {
                                 "type": "string"
@@ -245,7 +221,7 @@
                               }
                             },
                             "required": [
-                              "mime_type",
+                              "contentMediaType",
                               "func_area",
                               "title",
                               "status",
@@ -278,5 +254,17 @@
     "required": [
       "organization",
       "publications"
-    ]
+    ],
+      "definitions": {
+          "date": {
+          "type": "object",
+          "properties": {
+            "year": { "type": "string", "pattern": "^[0-9]{4}$" },
+            "month":{ "type": "string", "pattern": "^[1-12]{2}$" },
+            "date": { "type": "string", "pattern": "^[1-31]{2}$" }
+          },
+          "required": ["year", "month"]
+      }
+    }
   }
+  

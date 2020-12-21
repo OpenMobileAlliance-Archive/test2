@@ -1,54 +1,49 @@
 {
     "organization": {
-        "publisher": "Open Mobile Alliance",
-        "abbr":"OMA",
+        "name": "Open Mobile Alliance",
+        "abbreviation":"OMA",
         "version": "1.0",
-        "uri": "http://openmobilealliance.org/wp/index.html",
+        "url": "http://openmobilealliance.org/wp/index.html",
         "about": "about organization"
     },
-    "publications": [
+    "projects": [
         {
             "name": "Lightweight Machine to Machine",
-            "abbr": "LightweightM2M",
+            "abbreviation": "LightweightM2M",
             "description":"description to be added",
             "resources": [
                 {
                     "name": "LwM2M logo",
-                    "type": "image",
+                    "resourceType": "image",
                     "url": "https://www."
                 },
                 {
                     "name": "LwM2M Bugs",
-                    "type": "issues",
-                    "url": "https://www.",
-                    "icon": "/images/bug.png"
+                    "resourceType": "issues",
+                    "url": "https://www."
                 },
                 {
                     "name": "LwM2M Registry",
-                    "type": "registry",
-                    "url": "https://github.com/OpenMobileAlliance/lwm2m-registry",
-                    "icon": "/images/registry.png"
+                    "resourceType": "registry",
+                    "url": "https://github.com/OpenMobileAlliance/lwm2m-registry"
                 },
                 {
                     "name": "LwM2M Editor",
-                    "type": "tool",
-                    "url": "https://devtoolkit.openmobilealliance.org/OEditor/default.aspx",
-                    "icon": "/images/lwm2m_logo.png"
+                    "resourceType": "tool",
+                    "url": "https://devtoolkit.openmobilealliance.org/OEditor/default.aspx"
                 },
                 {
                     "name": "LwM2M Overview",
-                    "type": "documentation",
-                    "url": "http://www.openmobilealliance.org/wp/Overviews/lightweightm2m_overview.html",
-                    "icon": "/images/overview.png"
+                    "resourceType": "documentation",
+                    "url": "http://www.openmobilealliance.org/wp/Overviews/lightweightm2m_overview.html"
                 },
                 {
                     "name": "PDF/HTML",
-                    "type": "tool",
-                    "url": "https://www.md2html-tool.com/#/",
-                    "icon": "/images/pdf_html.png"
+                    "resourceType": "tool",
+                    "url": "https://www.md2html-tool.com/#/"
                 }
             ],
-            "linked": [
+            "dependencies": [
                 {
                     "name": "ObjLwM2M 5GNR_Conn",
                     "url": "http://www.openmobilealliance.org/release/ObjLwM2M_5GNR_Conn/"
@@ -107,10 +102,10 @@
                 }
             ],
             "tags": [
-                "tag1",
-                "tag2",
-                "tag3",
-                "tag4"
+                "#tag1",
+                "#tag2",
+                "#tag3",
+                "#tag4"
             ],
             "versions": [
                 {
@@ -126,15 +121,15 @@
                         "month":"11"
                     },
                     "tags": [
-                        "tag1",
-                        "tag2",
-                        "tag3",
-                        "tag4"
+                        "#tag1",
+                        "#tag2",
+                        "#tag3",
+                        "#tag4"
                     ],
-                    "documents": [
+                    "publishedContents": [
                         {
-                            "mime_type": "application/pdf",
-                            "func_area":"Requirements",
+                            "contentMediaType": "application/pdf",
+                            "functionalArea":"Requirements",
                             "title": "Lightweight Machine to Machine Requirements",
                             "status": "Candidate",
                             "version": "1.0",
@@ -147,16 +142,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-RD-LightweightM2M-V1_0-20131210-C.pdf",
                             "abstract": "Document abstract extracted from the document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
-                            "func_area":"Enabler Release Definition",
+                            "contentMediaType": "application/pdf",
+                            "functionalArea":"Enabler Release Definition",
                             "title": "Enabler Release Definition for LightweightM2M",
                             "status": "Candidate",
                             "version": "1.0",
@@ -169,16 +164,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-ERELD-LightweightM2M-V1_0-20131210-C.pdf",
                             "abstract": "Document abstract extracted from the document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/zip",
-                            "func_area":"Enabler Release Package",
+                            "contentMediaType": "application/zip",
+                            "functionalArea":"Enabler Release Package",
                             "title": "Enabler Release Package",
                             "status": "Candidate",
                             "version": "1.0",
@@ -191,16 +186,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-ERP-LightweightM2M-V1_0-20131210-C.zip",
                             "abstract": "Zip package",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
-                            "func_area":"Technical Specification",
+                            "contentMediaType": "application/pdf",
+                            "functionalArea":"Technical Specification",
                             "title": "Lightweight Machine to Machine Technical Specification",
                             "status": "Candidate",
                             "version": "1.0",
@@ -213,16 +208,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-TS-LightweightM2M-V1_0-20131210-C.pdf",
                             "abstract": "Document abstract extracted from the document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/txt",
-                            "func_area":"Supporting File, TXT",
+                            "contentMediaType": "application/txt",
+                            "functionalArea":"Supporting File, TXT",
                             "title": "LwM2M Object",
                             "status": "Candidate",
                             "version": "1.0",
@@ -235,11 +230,11 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-SUP-XML_LWM2M_Access_Control-V1_0-20131210-C.txt",
                             "abstract": "Document abstract extracted from the file",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         }
                     ]
@@ -257,15 +252,15 @@
                         "month": "11"
                     },
                     "tags": [
-                        "tag1",
-                        "tag2",
-                        "tag3",
-                        "tag4"
+                        "#tag1",
+                        "#tag2",
+                        "#tag3",
+                        "#tag4"
                     ],
                     "documents": [
                         {
-                            "mime_type": "application/pdf",
-                            "func_area":"Technical Specification",
+                            "contentMediaType": "application/pdf",
+                            "functionalArea":"Technical Specification",
                             "title": "Lightweight Machine to Machine Technical Specification: Core",
                             "status": "Approved",
                             "version": "1.2",
@@ -278,16 +273,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
-                            "func_area":"Technical Specification",
+                            "contentMediaType": "application/pdf",
+                            "functionalArea":"Technical Specification",
                             "title": "Lightweight Machine to Machine Technical Specification: Transport Bindings",
                             "status": "Approved",
                             "version": "1.2",
@@ -300,16 +295,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
-                            "func_area":"Requirements",
+                            "contentMediaType": "application/pdf",
+                            "functionalArea":"Requirements",
                             "title": "Lightweight Machine to Machine Requirements",
                             "status": "Approved",
                             "version": "1.2",
@@ -322,16 +317,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-RD-LightweightM2M-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/pdf",
-                            "func_area":"Enabler Release Definition",
+                            "contentMediaType": "application/pdf",
+                            "functionalArea":"Enabler Release Definition",
                             "title": "Enabler Release Definition for LightweightM2M",
                             "status": "Approved",
                             "version": "1.2",
@@ -344,16 +339,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERELD-LightweightM2M-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/zip",
-                            "func_area":"Enabler Release Package",
+                            "contentMediaType": "application/zip",
+                            "functionalArea":"Enabler Release Package",
                             "title": "Enabler Release Package",
                             "status": "Approved",
                             "version": "1.2",
@@ -366,16 +361,16 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERP-LightweightM2M-V1_2-20201110-A.zip",
                             "abstract": "Zip package",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         },
                         {
-                            "mime_type": "application/xml",
-                            "func_area":"Supporting File, XSD",
+                            "contentMediaType": "application/xml",
+                            "functionalArea":"Supporting File, XSD",
                             "title": "LwM2M Schema",
                             "status": "Approved",
                             "version": "1.1",
@@ -388,11 +383,11 @@
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd",
                             "abstract": "Schema document",
                             "tags": [
-                                "tag1",
-                                "tag2",
-                                "tag3",
-                                "tag4",
-                                "tag5"
+                                "#tag1",
+                                "#tag2",
+                                "#tag3",
+                                "#tag4",
+                                "#tag5"
                             ]
                         }
                     ]
