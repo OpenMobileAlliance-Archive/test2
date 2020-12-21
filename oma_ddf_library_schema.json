@@ -1,5 +1,5 @@
 {
-    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$schema": "http://json-schema.org/draft-07/schema#",
     "$comment": "Decide what version of the JSON schema should be ponting to",
     "id": "http://www.openmobilealliance.org/tech/profiles/oma_ddf_library_schema.json",
     "title": "OMA Specifications Library",
@@ -10,35 +10,20 @@
       "organization": {
         "type": "object",
         "properties": {
-          "name": {
-            "type": "string"
-          },
-          "abbreviation": {
-            "type": "string"
-          },
-          "version": {
-            "type": "string"
-          },
+          "name": { "type": "string" },
+          "abbreviation": { "type": "string" },
+          "schemaVersion": { "type": "string" },
           "url": {
             "type": "string",
             "format":"uri"
           },
-          "about": {
-            "type": "string"
-          },
+          "about": { "type": "string" },
           "email": {
             "type": "string",
             "format": "email"
           }
         },
-        "required": [
-          "name",
-          "abbreviation",
-          "version",
-          "url",
-          "about",
-          "email"
-        ]
+        "required": [ "name", "abbreviation", "schemaVersion", "url", "about", "email" ]
       },
       "projects": {
         "type": "array",
@@ -47,35 +32,26 @@
           {
             "type": "object",
             "properties": {
-              "name": {
-                "type": "string"
-              },
-              "abbreviation": {
-                "type": "string"
-              },
-              "description": {
-                "type": "string"
-              },
+              "name": { "type": "string" },
+              "abbreviation": { "type": "string" },
+              "description": { "type": "string" },
               "resources": {
                 "type": "array",
                 "uniqueItems": true,
-                "items": [
-                  {                    
+                "items": [ {                    
                     "type": "object",
+                    "minItems": 1,
+                    "uniqueItems": true,
                     "properties": {
-                      "resourceType": {
-                        "type": "string"
+                      "resourceType": { "type": "string",
+                      "enum":["Logo", "Issues", "Registry", "Editor", "Overview", "MD2HTML", "Dependency", null ]
                       },
-                      "name": {
-                        "type": "string"
-                      },
+                      "name": { "type": "string" },
                       "url": {
                         "type": "string",
                         "format":"uri"
                       }
-                    },
-                    "minItems": 1,
-                    "uniqueItems": true
+                    }
                   }
                 ]
               },
@@ -83,187 +59,92 @@
                 "type": "array",
                 "uniqueItems": true,
                 "items": [
-                  {
-                    "type": "string"
-                  }
+                  { "type": "string" }
                 ]
               },
               "versions": {
                 "type": "array",
                 "uniqueItems": true,
-                "items": [
-                  {
+                "items": [ {
                     "type": "object",
                     "properties": {
-                      "version": {
-                        "type": "string"
-                      },
+                      "version": { "type": "string" },
                       "publication_date": {
-                        "type": "object",
-                        "properties": {
-                          "year": {
-                            "type": "string",
-                            "pattern": "^[0-9]{4}$"
-                          },
-                          "month": {
-                            "type": "string",
-                            "pattern": "^[1-12]{2}$"
-                          },
-                          "day": {
-                            "type": "string",
-                            "pattern": "^[1-31]{2}$"
-                          }
-                        },
-                        "required": [
-                          "year",
-                          "month",
-                          "day"
-                        ]
-                      },
+                        "$ref": "#/definitions/date",
+                        "required": [ "year","month", "day" ] 
+                       },
                       "status": {
                         "type": "string",
-                        "enum":["Draft", "Candidate", "Approved", "Historic"]
-                      },
-                      "updated_date": {
-                        "type": "object",
-                        "properties": {
-                          "year": {
-                            "type": "string"
-                          },
-                          "month": {
-                            "type": "string"
-                          }
-                        },
-                        "required": [
-                          "year",
-                          "month"
-                        ]
-                      },
+                        "enum":["Draft", "Candidate", "Approved", "Historic"] 
+                       },
+                      "updatedDate": { 
+                        "$ref": "#/definitions/date",
+                        "required": [ "year", "month" ] 
+                       },
                       "tags": {
-                        "type": "array",
-                        "uniqueItems": true,
-                        "items": [
-                          {
-                            "type": "string"
-                          }
-                        ]
-                      },
-                      "publishedContents": {
-                        "type": "array",
-                        "uniqueItems": true,
-                        "items": [
-                          {
-                            "type": "object",
-                            "properties": {
-                              "contentMediaType": {
-                                "type": "string"
-                              },
-                              "functionalArea": {
-                                "type": "string"
-                              },
-                              "title": {
-                                "type": "string"
-                              },
-                              "status": {
-                                "type": "string",
-                                "enum":["Draft", "Candidate", "Approved", "Historic"]
-                              },
-                              "version": {
-                                "type": "string"
-                              },
-                              "date": {
+                         "type": "array",
+                         "uniqueItems": true,
+                         "items": [ { "type": "string" } ] 
+                        },
+                      "publishedContents": 
+                        {
+                            "type": "array",
+                            "uniqueItems": true,
+                            "items": [
+                              {
                                 "type": "object",
                                 "properties": {
-                                  "year": {
+                                  "contentMediaType": { "type": "string" },
+                                  "functionalArea": { "type": "string" },
+                                  "title": { "type": "string" },
+                                  "status": {
                                     "type": "string",
-                                    "pattern": "^[0-9]{4}$"
+                                    "enum":["Draft", "Candidate", "Approved", "Historic"]
                                   },
-                                  "month": {
-                                    "type": "string",
-                                    "pattern": "^[1-2]{2}$"
+                                  "version": { "type": "string" },
+                                  "contentDate": { "$ref": "#/definitions/date",
+                                    "required": [ "year", "month", "day" ] 
                                   },
-                                  "day": {
+                                  "file_name": { "type": "string" },
+                                  "url": {
                                     "type": "string",
-                                    "pattern": "^[1-31]{2}$"
+                                    "format":"uri"
+                                  },
+                                  "abstract": { "type": "string" },
+                                  "tags": {
+                                    "type": "array",
+                                    "uniqueItems": true,
+                                    "items": [
+                                      { "type": "string" }
+                                    ]
                                   }
-                                }
-                              },
-                              "file_name": {
-                                "type": "string"
-                              },
-                              "url": {
-                                "type": "string",
-                                "format":"uri"
-                              },
-                              "abstract": {
-                                "type": "string"
-                              },
-                              "tags": {
-                                "type": "array",
-                                "uniqueItems": true,
-                                "items": [
-                                  {
-                                    "type": "string"
-                                  },
-                                  {
-                                    "type": "string"
-                                  },
-                                  {
-                                    "type": "string"
-                                  },
-                                  {
-                                    "type": "string"
-                                  },
-                                  {
-                                    "type": "string"
-                                  }
+                                },
+                                "required": [ "contentMediaType", "funcionalArea", "title", "status", "version", "contentDate", "fileName", "url"
                                 ]
                               }
-                            },
-                            "required": [
-                              "contentMediaType",
-                              "func_area",
-                              "title",
-                              "status",
-                              "version",
-                              "date",
-                              "file_name",
-                              "url"
                             ]
                           }
-                        ]
-                      }
                     },
-                    "required": [
-                      "version",
-                      "publication_date",
-                      "status"
+                    "required": [ "version", "publicationDate", "status"
                     ]
                   }
                 ]
               }
             },
-            "required": [
-              "name",
-              "description"
-            ]
+            "required": [ "name", "description" ]
           }
         ]
       }
     },
-    "required": [
-      "organization",
-      "publications"
-    ],
-      "definitions": {
+    "required": [ "organization", "projects" ],
+    "definitions": {
           "date": {
           "type": "object",
           "properties": {
             "year": { "type": "string", "pattern": "^[0-9]{4}$" },
             "month":{ "type": "string", "pattern": "^[1-12]{2}$" },
             "date": { "type": "string", "pattern": "^[1-31]{2}$" }
-          },
-          "required": ["year", "month"]
+          }
       }
     }
   }
