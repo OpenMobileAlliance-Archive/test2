@@ -152,6 +152,7 @@
                                 "month": "12",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-RD-LightweightM2M-V1_0-20131210-C",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20160407-C/OMA-RD-LightweightM2M-V1_0-20131210-C.pdf",
                             "abstract": "Document abstract extracted from the document",
@@ -174,6 +175,7 @@
                                 "month": "12",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-ERELD-LightweightM2M-V1_0-20131210-C",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-ERELD-LightweightM2M-V1_0-20131210-C.pdf",
                             "abstract": "Document abstract extracted from the document",
@@ -196,6 +198,7 @@
                                 "month": "12",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-ERP-LightweightM2M-V1_0-20131210-C",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-ERP-LightweightM2M-V1_0-20131210-C.zip",
                             "abstract": "Zip package",
@@ -218,6 +221,7 @@
                                 "month": "12",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-TS-LightweightM2M-V1_0-20131210-C",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-TS-LightweightM2M-V1_0-20131210-C.pdf",
                             "abstract": "Document abstract extracted from the document",
@@ -240,6 +244,7 @@
                                 "month": "12",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-SUP-XML_LWM2M_Access_Control-V1_0-20131210-C.txt",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_0-20131210-C/OMA-SUP-XML_LWM2M_Access_Control-V1_0-20131210-C.txt",
                             "abstract": "Document abstract extracted from the file",
@@ -283,6 +288,7 @@
                                 "month": "11",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-TS-LightweightM2M_Core-V1_2-20201110-A",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Core-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
@@ -305,6 +311,7 @@
                                 "month": "11",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-TS-LightweightM2M_Transport-V1_2-20201110-A",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-TS-LightweightM2M_Transport-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
@@ -327,6 +334,7 @@
                                 "month": "11",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-RD-LightweightM2M-V1_2-20201110-A",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-RD-LightweightM2M-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
@@ -349,6 +357,7 @@
                                 "month": "11",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-ERELD-LightweightM2M-V1_2-20201110-A",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERELD-LightweightM2M-V1_2-20201110-A.pdf",
                             "abstract": "Document abstract extracted from the document",
@@ -371,6 +380,7 @@
                                 "month": "11",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-ERP-LightweightM2M-V1_2-20201110-A",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-ERP-LightweightM2M-V1_2-20201110-A.zip",
                             "abstract": "Zip package",
@@ -393,6 +403,7 @@
                                 "month": "07",
                                 "day":   "10"
                             },
+                            "publisher": "Open Mobile Alliance",
                             "fileName": "OMA-SUP-XML_LWM2M-V1_1-20180710-A",
                             "url": "http://www.openmobilealliance.org/release/LightweightM2M/V1_2-20201110-A/OMA-SUP-XML_LWM2M-V1_1-20180710-A.xsd",
                             "abstract": "Schema document",

@@ -95,6 +95,7 @@
                                   "contentDate": { "$ref": "#/definitions/date",
                                     "required": [ "year", "month", "day" ] 
                                   },
+                                  "publisher": { "type": "string" },
                                   "fileName": { "type": "string" },
                                   "url": {
                                     "type": "string",
