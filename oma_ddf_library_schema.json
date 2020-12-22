@@ -103,7 +103,7 @@
                                   "abstract": { "type": "string" },
                                   "contentTags": { "$ref": "#/definitions/tags" }
                                 },
-                                "required": [ "contentMediaType", "funcionalArea", "title", "status", "version", "contentDate", "fileName", "url"
+                                "required": [ "contentMediaType", "functionalArea", "title", "status", "version", "contentDate", "fileName", "url"
                                 ]
                               }
                             ]
@@ -126,7 +126,7 @@
             "type": "object",
             "properties": {
               "year": { "type": "string", "pattern": "^[0-9]{4}$" },
-              "month":{ "type": "string", "pattern": "^[1-12]{2}$" },
+              "month":{ "type": "string", "pattern": "^0[1-9]|1[012]$" },
               "date": { "type": "string", "pattern": "^[1-31]{2}$" }
             }
       },
@@ -137,4 +137,3 @@
         }
     }
   }
-  
