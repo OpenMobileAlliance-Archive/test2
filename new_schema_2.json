@@ -1,0 +1,1509 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "organization": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "abbreviation": {
+            "type": "string"
+          },
+          "schemaVersion": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "about": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "name",
+          "abbreviation",
+          "schemaVersion",
+          "url",
+          "about",
+          "email"
+        ]
+      },
+      "projects": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "abbreviation": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "resources": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "resourceType": {
+                        "type": "string"
+                      },
+                      "url": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name",
+                      "resourceType",
+                      "url"
+                    ]
+                  }
+                ]
+              },
+              "projectTags": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "versions": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "version": {
+                        "type": "string"
+                      },
+                      "publicationDate": {
+                        "type": "object",
+                        "properties": {
+                          "year": {
+                            "type": "string"
+                          },
+                          "month": {
+                            "type": "string"
+                          },
+                          "day": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "year",
+                          "month",
+                          "day"
+                        ]
+                      },
+                      "status": {
+                        "type": "string"
+                      },
+                      "updatedDate": {
+                        "type": "object",
+                        "properties": {
+                          "year": {
+                            "type": "string"
+                          },
+                          "month": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "year",
+                          "month"
+                        ]
+                      },
+                      "versionTags": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "string"
+                          },
+                          {
+                            "type": "string"
+                          },
+                          {
+                            "type": "string"
+                          },
+                          {
+                            "type": "string"
+                          }
+                        ]
+                      },
+                      "publishedContents": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "required": [
+                      "version",
+                      "publicationDate",
+                      "status",
+                      "updatedDate",
+                      "versionTags",
+                      "publishedContents"
+                    ]
+                  },
+                  {
+                    "type": "object",
+                    "properties": {
+                      "version": {
+                        "type": "string"
+                      },
+                      "publicationDate": {
+                        "type": "object",
+                        "properties": {
+                          "year": {
+                            "type": "string"
+                          },
+                          "month": {
+                            "type": "string"
+                          },
+                          "day": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "year",
+                          "month",
+                          "day"
+                        ]
+                      },
+                      "status": {
+                        "type": "string"
+                      },
+                      "updatedDate": {
+                        "type": "object",
+                        "properties": {
+                          "year": {
+                            "type": "string"
+                          },
+                          "month": {
+                            "type": "string"
+                          }
+                        },
+                        "required": [
+                          "year",
+                          "month"
+                        ]
+                      },
+                      "versiontTags": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "string"
+                          },
+                          {
+                            "type": "string"
+                          },
+                          {
+                            "type": "string"
+                          },
+                          {
+                            "type": "string"
+                          }
+                        ]
+                      },
+                      "publishedContents": {
+                        "type": "array",
+                        "items": [
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "contentMediaType": {
+                                "type": "string"
+                              },
+                              "functionalArea": {
+                                "type": "string"
+                              },
+                              "title": {
+                                "type": "string"
+                              },
+                              "status": {
+                                "type": "string"
+                              },
+                              "version": {
+                                "type": "string"
+                              },
+                              "contentDate": {
+                                "type": "object",
+                                "properties": {
+                                  "year": {
+                                    "type": "string"
+                                  },
+                                  "month": {
+                                    "type": "string"
+                                  },
+                                  "day": {
+                                    "type": "string"
+                                  }
+                                },
+                                "required": [
+                                  "year",
+                                  "month",
+                                  "day"
+                                ]
+                              },
+                              "fileName": {
+                                "type": "string"
+                              },
+                              "url": {
+                                "type": "string"
+                              },
+                              "abstract": {
+                                "type": "string"
+                              },
+                              "contentTags": {
+                                "type": "array",
+                                "items": [
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  },
+                                  {
+                                    "type": "string"
+                                  }
+                                ]
+                              }
+                            },
+                            "required": [
+                              "contentMediaType",
+                              "functionalArea",
+                              "title",
+                              "status",
+                              "version",
+                              "contentDate",
+                              "fileName",
+                              "url",
+                              "abstract",
+                              "contentTags"
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "required": [
+                      "version",
+                      "publicationDate",
+                      "status",
+                      "updatedDate",
+                      "versiontTags",
+                      "publishedContents"
+                    ]
+                  }
+                ]
+              }
+            },
+            "required": [
+              "name",
+              "abbreviation",
+              "description",
+              "resources",
+              "projectTags",
+              "versions"
+            ]
+          }
+        ]
+      }
+    },
+    "required": [
+      "id",
+      "organization",
+      "projects"
+    ]
+  }
