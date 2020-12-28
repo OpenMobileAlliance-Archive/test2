@@ -1,143 +1,140 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$comment": "Decide what version of the JSON schema should be pointing to",
-    "id": "http://www.openmobilealliance.org/tech/profiles/JSD/oma_ddf_library_schema.json",
-    "title": "OMA Specifications Library",
-    "description": "This JSON schema describes the metadata and structure or OMA Specifications Library",
-    "default":"default_value", 
-    "type": "object",
-    "properties": {
-      "organization": {
-        "type": "object",
-        "properties": {
-          "name": { "type": "string" },
-          "abbreviation": { "type": "string" },
-          "schemaVersion": { "type": "string" },
-          "url": {
-            "type": "string",
-            "format":"uri"
-          },
-          "about": { "type": "string" },
-          "email": {
-            "type": "string",
-            "format": "email"
-          }
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$comment": "Decide what version of the JSON schema should be pointing to",
+  "id": "http://www.openmobilealliance.org/tech/profiles/JSD/oma_ddf_library_schema.json",
+  "title": "OMA Specifications Library",
+  "description": "This JSON schema describes the metadata and structure or OMA Specifications Library",
+  "default":"default_value", 
+  "type": "object",
+  "properties": {
+    "organization": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "abbreviation": { "type": "string" },
+        "schemaVersion": { "type": "string" },
+        "url": {
+          "type": "string",
+          "format":"uri"
         },
-        "additionalProperties": false,
-        "required": [ "name", "abbreviation", "schemaVersion", "url", "about", "email" ]
+        "about": { "type": "string" },
+        "email": {
+          "type": "string",
+          "format": "email"
+        }
       },
-      "projects": {
-        "type": "array",
-        "uniqueItems": true,
-        "items": [
-          {
-            "type": "object",
-            "properties": {
-              "name": { "type": "string" },
-              "abbreviation": { "type": "string" },
-              "description": { "type": "string" },
-              "resources": {
-                "type": "array",
-                "uniqueItems": true,
-                "items": [ {                    
-                    "type": "object",
-                    "minItems": 1,
-                    "uniqueItems": true,
-                    "properties": {
-                      "resourceType": { "type": "string",
-                        "enum":["Logo", "Image", "Issue", "Registry", "Editor", "Overview", "MD2HTML", "Dependency", null ]
-                      },
-                      "name": { "type": "string" },
-                      "url": {
-                        "type": "string",
-                        "format":"uri"
-                      }
-                    },
-                    "additionalProperties": false
-                  }
-                ]
-              },
-              "projectTags": { "$ref": "#/definitions/tags" },
-              "versions": {
-                "type": "array",
-                "uniqueItems": true,
-                "items": [ {
-                    "type": "object",
-                    "properties": {
-                      "version": { "type": "string" },
-                      "publicationDate": {
-                        "$ref": "#/definitions/date",
-                        "required": [ "year","month", "day" ] 
-                       },
-                      "status": {
-                        "type": "string",
-                        "enum":["Draft", "Candidate", "Approved", "Historic", null] 
-                       },
-                      "updatedDate": { 
-                        "$ref": "#/definitions/date",
-                        "required": [ "year", "month" ] 
-                       },
-                      "versionTags": { "$ref": "#/definitions/tags" },
-                      "publishedContents": 
-                        {
-                            "type": "array",
-                            "uniqueItems": true,
-                            "items": [
-                              {
-                                "type": "object",
-                                "properties": {
-                                  "contentMediaType": { "type": "string" },
-                                  "functionalArea": { "type": "string" },
-                                  "title": { "type": "string" },
-                                  "status": {
-                                    "type": "string",
-                                    "enum":["Draft", "Candidate", "Approved", "Historic"]
-                                  },
-                                  "version": { "type": "string" },
-                                  "contentDate": { "$ref": "#/definitions/date",
-                                    "required": [ "year", "month", "day" ] 
-                                  },
-                                  "fileName": { "type": "string" },
-                                  "url": {
-                                    "type": "string",
-                                    "format":"uri"
-                                  },
-                                  "abstract": { "type": "string" },
-                                  "contentTags": { "$ref": "#/definitions/tags" }
-                                },
-                                "required": [ "contentMediaType", "functionalArea", "title", "status", "version", "contentDate", "fileName", "url"
-                                ]
-                              }
-                            ]
-                          }
-                    },
-                    "additionalProperties": false,
-                    "required": [ "version", "publicationDate", "status"
-                    ]
-                  }
-                ]
-              }
-            },
-            "additionalProperties": false,
-            "required": [ "name", "description" ]
-          }
-        ]
-      }
+      "additionalProperties": false,
+      "required": [ "name", "abbreviation", "schemaVersion", "url", "about", "email" ]
     },
-    "required": [ "organization", "projects" ],
-    "definitions": {
-          "date": {
-            "type": "object",
-            "properties": {
-              "year": { "type": "string", "pattern": "^[0-9]{4}$" },
-              "month":{ "type": "string", "pattern": "^0[1-9]|1[012]$" },
-              "date": { "type": "string", "pattern": "^[1-31]{2}$" }
+    "projects": {
+      "type": "array",
+      "uniqueItems": true,
+      "items":
+        {
+          "type": "object",
+          "properties": {
+            "name": { "type": "string" },
+            "abbreviation": { "type": "string" },
+            "description": { "type": "string" },
+            "resources": {
+              "type": "array",
+              "uniqueItems": true,
+              "items":  {                    
+                  "type": "object",
+                  "minItems": 1,
+                  "uniqueItems": true,
+                  "properties": {
+                    "resourceType": { "type": "string",
+                      "enum":["Logo", "Image", "Issue", "Registry", "Editor", "Overview", "MD2HTML", "Dependency", null ]
+                    },
+                    "name": { "type": "string" },
+                    "url": {
+                      "type": "string",
+                      "format":"uri"
+                    }
+                  },
+                  "additionalProperties": false
+                }
+            },
+            "projectTags": { "$ref": "#/definitions/tags" },
+            "versions": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                  "type": "object",
+                  "properties": {
+                    "version": { "type": "string" },
+                    "publicationDate": {
+                      "$ref": "#/definitions/date",
+                      "required": [ "year","month", "day" ] 
+                     },
+                    "status": {
+                      "type": "string",
+                      "enum":["Draft", "Candidate", "Approved", "Historic", null] 
+                     },
+                    "updatedDate": { 
+                      "$ref": "#/definitions/date",
+                      "required": [ "year", "month" ] 
+                     },
+                    "versionTags": { "$ref": "#/definitions/tags" },
+                    "publishedContents": 
+                      {
+                          "type": "array",
+                          "uniqueItems": true,
+                          "items":
+                            {
+                              "type": "object",
+                              "properties": {
+                                "contentMediaType": { "type": "string" },
+                                "functionalArea": { "type": "string" },
+                                "title": { "type": "string" },
+                                "status": {
+                                  "type": "string",
+                                  "enum":["Draft", "Candidate", "Approved", "Historic"]
+                                },
+                                "version": { "type": "string" },
+                                "contentDate": { "$ref": "#/definitions/date",
+                                  "required": [ "year", "month", "day" ] 
+                                },
+                                "fileName": { "type": "string" },
+                                "url": {
+                                  "type": "string",
+                                  "format":"uri"
+                                },
+                                "abstract": { "type": "string" },
+                                "contentTags": { "$ref": "#/definitions/tags" }
+                              },
+                              "required": [ "contentMediaType", "functionalArea", "title", "status", "version", "contentDate", "fileName", "url"
+                              ],
+                              "additionalProperties": false
+                            }
+                        }
+                  },
+                  "additionalProperties": false,
+                  "required": [ "version", "publicationDate", "status"
+                  ]
+                }
             }
-      },
-          "tags": {
-             "type": "array",
-             "uniqueItems": true,
-             "items": [ { "type": "string" } ]
+          },
+          "additionalProperties": false,
+          "required": [ "name", "description" ]
         }
     }
+  },
+  "required": [ "organization", "projects" ],
+  "definitions": {
+        "date": {
+          "type": "object",
+          "properties": {
+            "year": { "type": "string", "pattern": "^[0-9]{4}$" },
+            "month":{ "type": "string", "pattern": "^0[1-9]|1[012]$" },
+            "date": { "type": "string", "pattern": "^[1-31]{2}$" }
+          }
+    },
+        "tags": {
+           "type": "array",
+           "uniqueItems": true,
+           "items": { "type": "string" }
+      }
   }
+}
