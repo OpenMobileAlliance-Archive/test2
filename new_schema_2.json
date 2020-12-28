@@ -105,7 +105,8 @@
                                 "contentTags": { "$ref": "#/definitions/tags" }
                               },
                               "required": [ "contentMediaType", "functionalArea", "title", "status", "version", "contentDate", "fileName", "url"
-                              ]
+                              ],
+                              "additionalProperties": false
                             }
                         }
                   },
