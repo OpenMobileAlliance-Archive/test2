@@ -1,13 +1,24 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "StandardsHub Publications meta data API",
-    "description": "Open API template StandardsHub Publications meta data.\n",
-    "version": "0.0.1"
+    "title": "Open Mobile Alliance Publications meta data API",
+    "description": "Open API template OMA Publications meta data.\n",
+    "version": "0.0.1",
+    "termsOfService": "https://github.openmobilealliance/oma_api_library/termsOfService.md",
+    "contact": {
+      "name": "OMA API Library",
+      "url": "https://github.openmobilealliance/oma_api_library/issues",
+      "email": "helpdesk@omaorg.org"
+    },
+    "license": {
+      "name": "BSD-3",
+      "url": "https://github.openmobilealliance/oma_api_library/license.md"
+    }
   },
   "servers": [
     {
-      "url": "{protocol}://{environment}.standardshub.com/v1",
+      "url": "{protocol}://{environment}.openmobilealliance.org/library/v1",
+      "description": "Production Server uses live data",
       "variables": {
         "protocol": {
           "enum": [
@@ -211,7 +222,7 @@
     },
     "/projects/{id}": {
       "get": {
-        "summary": "Represents an Project",
+        "summary": "Represents a Project",
         "description": "This resource represents an individual Project in the system identified by an `id`.\n",
         "tags": [
           "projects"
