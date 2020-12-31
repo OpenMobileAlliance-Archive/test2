@@ -21,3 +21,11 @@
 * Evaluate if this new system will be easy for us to maintain
 * Define an API web service that query the JSON file
 * Define a crawler to extract info from the FTP & documents (abstract)
+
+## Baselines
+These are the draft baselines:
+* ddf_oma_library.json
+* oma_ddf_library_schema.json
+
+The description of the Service API for the OMA Library is being investigated in this file.
+* openapi-example.json
