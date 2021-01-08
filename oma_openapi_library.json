@@ -1,13 +1,13 @@
 {
     "openapi": "3.0.0",
     "info": {
-      "title": "StandardsHub Publications meta data API",
-      "description": "Open API template StandardsHub Publications meta data.\n",
-      "version": "0.0.1"
+      "title": "Open Mobile Alliance Library metadata API",
+      "description": "Open API template Open Mobile Alliance Library metadata.\n",
+      "version": "0.0.2"
     },
     "servers": [
       {
-        "url": "{protocol}://{environment}.standardshub.com/v1",
+        "url": "{protocol}://{environment}.openmobilealliance.org/v1",
         "variables": {
           "protocol": {
             "enum": [
