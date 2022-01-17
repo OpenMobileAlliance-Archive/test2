@@ -15,19 +15,19 @@
             "description": "description to be added",
             "resources": [
                 {
-                    "name": "LwM2M logo",
-                    "resourceType": "Logo",
-                    "url": "https://www."
+                    "name": "README",
+                    "resourceType": "Overview",
+                    "url": "README.txt"
                 },
                 {
-                    "name": "LwM2M Bugs",
+                    "name": "Search",
+                    "resourceType": "API",
+                    "url": "http://www.openmobilealliance.org/xxxx/"
+                },
+                {
+                    "name": "Submit",
                     "resourceType": "Issue",
-                    "url": "https://www."
-                },
-                {
-                    "name": "LwM2M Registry",
-                    "resourceType": "Registry",
-                    "url": "https://github.com/OpenMobileAlliance/lwm2m-registry"
+                    "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
                 },
                 {
                     "name": "LwM2M Editor",
