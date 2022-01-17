@@ -22,6 +22,11 @@
                 "url": "http://www.openmobilealliance.org/wp/Overviews/lightweightm2m_overview.html"
             },
             {
+                "name": "OMA Specs API",
+                "resourceType": "API",
+                "url": "http://www.openmobilealliance.org/xxx/"
+            },
+            {
                 "name": "LwM2M Bugs",
                 "resourceType": "Issue",
                 "url": "https://www."
