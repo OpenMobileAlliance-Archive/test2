@@ -8,29 +8,29 @@
     "ftp": "https://www.openmobilealliance.org/release/",
     "about": "about organization",
     "email": "info@omaorg.org"
-    },
+  },
   "enablers": [
     {
       "name": "OMA 3D Contents Creation Service APIs",
       "abbreviation": "3DCAPI",
       "data": {
-          "resources": [
-            {
-                "name": "README",
-                "resourceType": "Overview",
-                "url": "README.txt"
-            },
-            {
-                "name": "Search",
-                "resourceType": "API",
-                "url": "http://www.openmobilealliance.org/xxx/"
-            },
-            {
-              "name": "Bugs",
-              "resourceType": "Issue",
-              "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
+        "resources": [
+          {
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
+          },
+          {
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
+          },
+          {
+            "name": "Bugs",
+            "resourceType": "Issue",
+            "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
           }
-          ],
+        ],
         "publications": [
           {
             "url": "http://www.openmobilealliance.org/release/3DCAPI/README.txt",
@@ -192,20 +192,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Submit",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {

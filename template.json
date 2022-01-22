@@ -17,9 +17,9 @@
     "data": {
         "resources": [
             {
-                "name": "LwM2M Overview",
+                "name": "XXXXX Overview",
                 "resourceType": "Overview",
-                "url": "http://www.openmobilealliance.org/wp/Overviews/lightweightm2m_overview.html"
+                "url": "http://www.openmobilealliance.org/release/AC_MO/README.txt"
             },
             {
                 "name": "OMA Specs API",
@@ -27,9 +27,9 @@
                 "url": "http://www.openmobilealliance.org/xxx/"
             },
             {
-                "name": "LwM2M Bugs",
+                "name": "XXXX Issues",
                 "resourceType": "Issue",
-                "url": "https://www."
+                "url": "mailto:helpdesk@omaorg.org?subject=Feedback XXXXX"
             },
             {
                 "name": "LwM2M Registry",
