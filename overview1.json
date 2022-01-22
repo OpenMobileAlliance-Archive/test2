@@ -460,7 +460,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Browser Management Object",
       "abbreviation": "BMO",
       "data": {
         "resources": [
@@ -833,7 +833,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Categorization Based Content Screening Framework",
       "abbreviation": "CBCS",
       "data": {
         "resources": [
@@ -1028,7 +1028,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Customized Multimedia Ringing",
       "abbreviation": "CMR",
       "data": {
         "resources": [
@@ -1283,7 +1283,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "Client-Side Enabler API Requirements",
       "abbreviation": "CSEA",
       "data": {
         "resources": [
@@ -1655,7 +1655,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA SyncML Common Specification",
       "abbreviation": "Common",
       "data": {
         "resources": [
@@ -2896,7 +2896,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Data Objects",
       "abbreviation": "Data_Object",
       "data": {
         "resources": [
@@ -3463,7 +3463,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Enabler Test Specifications",
       "abbreviation": "ETS",
       "data": {
         "resources": [
@@ -5605,7 +5605,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Enabler Validation Plan",
       "abbreviation": "EVP",
       "data": {
         "resources": [
@@ -6960,7 +6960,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Instant Messaging Requirements",
       "abbreviation": "IM",
       "data": {
         "resources": [
@@ -7718,7 +7718,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Location Architecture Requirements",
       "abbreviation": "LAO",
       "data": {
         "resources": [
@@ -7765,7 +7765,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Lock And Wipe Management Object",
       "abbreviation": "LAW_MO",
       "data": {
         "resources": [
@@ -10448,7 +10448,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Device Management Client Profile",
       "abbreviation": "OIG",
       "data": {
         "resources": [
@@ -10495,7 +10495,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Service Environment",
       "abbreviation": "OSE",
       "data": {
         "resources": [
@@ -10578,7 +10578,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Service Provider Environment",
       "abbreviation": "OSPE",
       "data": {
         "resources": [
@@ -10631,7 +10631,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Web Services",
       "abbreviation": "OWSER",
       "data": {
         "resources": [
@@ -10755,7 +10755,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Web Services Network Identity",
       "abbreviation": "OWSER_NI",
       "data": {
         "resources": [
@@ -11043,7 +11043,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA LwM2M Object CO Detector",
       "abbreviation": "ObjLwM2M_CO_Detector",
       "data": {
         "resources": [
@@ -11336,7 +11336,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA LwM2M Object Fire Alarm",
       "abbreviation": "ObjLwM2M_Fire_Alarm",
       "data": {
         "resources": [
@@ -13221,7 +13221,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Rich Communication Centre",
       "abbreviation": "RCC",
       "data": {
         "resources": [
@@ -14257,7 +14257,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Rights Issuer Common Domain",
       "abbreviation": "RICD",
       "data": {
         "resources": [
@@ -14310,7 +14310,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Rich Media Environment",
       "abbreviation": "RME",
       "data": {
         "resources": [
@@ -14416,7 +14416,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Software and Application Control Management Object",
       "abbreviation": "SACMO",
       "data": {
         "resources": [
@@ -14475,7 +14475,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Simplified Converged Address Book",
       "abbreviation": "SCAB",
       "data": {
         "resources": [
@@ -14528,7 +14528,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Secure Content Exchange",
       "abbreviation": "SCE",
       "data": {
         "resources": [
@@ -14587,7 +14587,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Secure Content Identification Mechanism",
       "abbreviation": "SCIDM",
       "data": {
         "resources": [
@@ -14646,7 +14646,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Software Component Management Object",
       "abbreviation": "SCOMO",
       "data": {
         "resources": [
@@ -14747,7 +14747,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Smartcard Web Server",
       "abbreviation": "SCWS",
       "data": {
         "resources": [
@@ -14949,7 +14949,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA SIMPLE IM",
       "abbreviation": "SIMPLE_IM",
       "data": {
         "resources": [
@@ -15026,7 +15026,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA SIP Push",
       "abbreviation": "SIP_Push",
       "data": {
         "resources": [
@@ -15085,7 +15085,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Social Network Web",
       "abbreviation": "SNeW",
       "data": {
         "resources": [
@@ -15132,7 +15132,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA SOAP Network API Roaming Provisioning",
       "abbreviation": "SOAP_NetAPI_Roaming",
       "data": {
         "resources": [
@@ -15185,7 +15185,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Secure Removable Media",
       "abbreviation": "SRM",
       "data": {
         "resources": [
@@ -15262,7 +15262,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Standard Transcoding Interface",
       "abbreviation": "STI",
       "data": {
         "resources": [
@@ -15315,7 +15315,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Secure User Plane Location",
       "abbreviation": "SUPL",
       "data": {
         "resources": [
@@ -15518,7 +15518,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA SUPL Configuration Services",
       "abbreviation": "SUPLCS",
       "data": {
         "resources": [
@@ -15565,7 +15565,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Service User Profile Management",
       "abbreviation": "SUPM",
       "data": {
         "resources": [
@@ -15606,7 +15606,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Scalable Vector Graphics (SVG) Mobile Domain",
       "abbreviation": "SVG",
       "data": {
         "resources": [
@@ -15659,7 +15659,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Service User Profile Management ",
       "abbreviation": "ServUserProf",
       "data": {
         "resources": [
@@ -15771,7 +15771,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Small Cells Capabilities Exposure",
       "abbreviation": "SmaC",
       "data": {
         "resources": [
@@ -15877,7 +15877,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA SyncML Primer",
       "abbreviation": "SyncML_Primer",
       "data": {
         "resources": [
@@ -15924,7 +15924,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Telecom Application Store",
       "abbreviation": "TAS",
       "data": {
         "resources": [
@@ -15971,7 +15971,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA TestFest Packages",
       "abbreviation": "TFP",
       "data": {
         "resources": [
@@ -16258,7 +16258,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Template NetAPI",
       "abbreviation": "Template_NetAPI",
       "data": {
         "resources": [
@@ -16470,7 +16470,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA User Agent Profile",
       "abbreviation": "UAProf",
       "data": {
         "resources": [
@@ -16583,7 +16583,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA UAProf Best Practices Guide",
       "abbreviation": "UAProf_BPG",
       "data": {
         "resources": [
@@ -16620,7 +16620,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Unified Cloud Disk",
       "abbreviation": "UCD",
       "data": {
         "resources": [
@@ -16661,7 +16661,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA URI Schemes",
       "abbreviation": "URI_Schemes",
       "data": {
         "resources": [
@@ -16714,7 +16714,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Unified Virtual Experience",
       "abbreviation": "UVE",
       "data": {
         "resources": [
@@ -16808,7 +16808,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Virtualisation",
       "abbreviation": "VirMO",
       "data": {
         "resources": [
@@ -16861,7 +16861,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Wireless CSS Specification",
       "abbreviation": "WCSS",
       "data": {
         "resources": [
@@ -16902,7 +16902,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA WAP Proxy-based Redirect",
       "abbreviation": "WPBR",
       "data": {
         "resources": [
@@ -16943,7 +16943,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Wireless Public Key Infrastructure",
       "abbreviation": "WPKI",
       "data": {
         "resources": [
@@ -17110,7 +17110,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA Web Runtime API",
       "abbreviation": "WRAPI",
       "data": {
         "resources": [
@@ -17157,7 +17157,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA XML Document Management",
       "abbreviation": "XDM",
       "data": {
         "resources": [
@@ -17390,7 +17390,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA XDM V1.1 and Presence SIMPLE V1.1 Implementation Guidelines",
       "abbreviation": "XDM_PRS_IMPL",
       "data": {
         "resources": [
@@ -17479,7 +17479,7 @@
       }
     },
     {
-      "name": "XXXX",
+      "name": "OMA vObject Minimum Interoperability Profile",
       "abbreviation": "vObject",
       "data": {
         "resources": [
