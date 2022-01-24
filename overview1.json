@@ -10341,6 +10341,20 @@
             "date": "",
             "contentMediaType": "text/plain"
           }
+        ],
+        "versions": [
+          {
+            "name": "ETS",
+            "status": "Candidate",
+            "version": "ETS",
+            "date": ""
+          },
+          {
+            "name": "TFP",
+            "status": "Candidate",
+            "version": "TFP",
+            "date": ""
+          }
         ]
       }
     },
