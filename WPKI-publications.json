@@ -1,0 +1,146 @@
+{
+    "publications": [
+        {
+            "url": "http://www.openmobilealliance.org/release/WPKI/OMA-ERELD-WPKI-V1_0-20040615-C.pdf",
+            "file": "OMA-ERELD-WPKI-V1_0-20040615-C.pdf",
+            "status": "Candidate",
+            "version": "V1.0",
+            "date": "2004-06-15",
+            "contentMediaType": "application/pdf",
+            "description": "The scope of this document is limited to the Enabler Release Definition of  the Wireless Public Key Infrastructure enabler (abbreviated hereafter as WPKI) according to OMA Release process and the Enabler Release specification baseline listed in section 5."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/OMA-Security-CertProf-V1_1-20040615-C.pdf",
+            "file": "OMA-Security-CertProf-V1_1-20040615-C.pdf",
+            "status": "Candidate",
+            "version": "V1.1",
+            "date": "2004-06-15",
+            "contentMediaType": "application/pdf",
+            "description": "This document specifies Open Mobile Alliance (OMA) WAP Certificate and CRL profiles. It is based on work done within IETF’s PKIX working group ([15]). The term “WAP server” used here is not limited to WAP gateways but may include third party servers and content/service provider servers processing certificates conforming to this specification."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/OMA-WAP-ECMACR-V1_0-20040615-C.pdf",
+            "file": "OMA-WAP-ECMACR-V1_0-20040615-C.pdf",
+            "status": "Candidate",
+            "version": "V1.0",
+            "date": "2004-06-15",
+            "contentMediaType": "application/pdf",
+            "description": "WAP defines a set of protocols in transport, session and application layers. For additional information on the WAP architecture, refer to [WAPARCH].  This document specifies an object for cryptographic functionality of the ECMAScript Mobile Profile [ESMP]."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/OMA-WAP-WIM-V1_1-20021024-C.pdf",
+            "file": "OMA-WAP-WIM-V1_1-20021024-C.pdf",
+            "status": "Candidate",
+            "version": "V1.1",
+            "date": "2002-10-24",
+            "contentMediaType": "application/pdf",
+            "description": "WAP [WAPARCH] security functionality includes the Wireless Transport Layer Security [WAPWTLS], the Transport Layer Security [TLS10] and application level security, accessible using the Wireless Markup Language Script [WMLScript] and the Crypto Object [ECMACR] for ECMAScript Mobile Profile [ESMP].  For optimum security, some parts of the security functionality need to be performed by a tamper-resistant device, so that an attacker cannot retrieve sensitive data. Such data is especially the permanent private keys used in the WTLS handshake with client authentication, and for making application level electronic signatures (such as confirming an application level transaction). In WTLS, also the master secrets, protecting secure sessions, are relatively long living – which could be several days. This is in order to avoid frequent full handshakes which are relatively heavy both computationally and due to large data transfer. Master secrets are used as a source of entropy, to calculate MAC keys and message encryption keys which are used to secure a limited number of messages, depending on usage of WTLS.    The WAP Identity Module (WIM) is used in performing WTLS, TLS and application level security functions, and especially, to store and process information needed for user identification and authentication. The functionality presented here is based on the requirement that sensitive data, especially keys, can be stored in the WIM, and all operations where these keys are involved can be performed in the WIM.   An example of a WIM implementation is a smart card. In the phone, it can be the Subscriber Identity Module (SIM) card or an external smart card. The way which a phone and a smart card interact is specified as a command-response protocol, using Application Protocol Data Units (APDU) specific to this application. This specification is based on ISO7816 series of standards on smart cards and the related GSM specifications [GSM11.11], where applicable.   This specification concentrates on defining an interface between the part of a WAP client device that is not considered tamper-resistant, and a tamper-resistant component, the WIM.   A basic requirement for WIM implementation is that it is tamper-resistant. This means that certain physical hardware protection is used, which makes it unfeasible to extract or modify information in the module (volatile, non-volatile memory and other parts). Technology used in smart cards are examples of this kind of protection. Regular mobile phones and PDAs cannot be considered tamper-resistant. For these devices, e.g. extracting information from the module may be difficult but still feasible with a proper equipment.  This specification does not define exact requirements for tamper-resistance. Businesses can enforce certain requirements and policies using PKI based mechanisms. Applications should only accept certificates signed by Certification Authorities that are known to fulfil the requirements and policies.  PKI functionality (including WTLS and TLS client authentication with private keys, and WMLScript and ECMAScript digital signatures) can be implemented in pure software in normal PDAs or phones, using password protection, encryption etc. However, such implementations cannot be considered as WIM implementations, and are out of scope of this specification. At the same time, service interfaces defined in this specification may be useful for designing internal software interfaces for these implementations."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/OMA-WPKI-V1_0-20040615-C.zip",
+            "file": "OMA-WPKI-V1_0-20040615-C.zip",
+            "status": "Candidate",
+            "version": "V1.0",
+            "date": "2004-06-15",
+            "contentMediaType": "application/zip"
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/README.txt",
+            "file": "README.txt",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "text/plain"
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-161-WMLScriptCrypto-20010620-a.pdf",
+            "file": "WAP-161-WMLScriptCrypto-20010620-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "Wireless Application Protocol (WAP) is a result of continuous work to define an industry-wide specification for developing applications that operate over wireless communication networks. The scope for the WAP Forum is to define a set of standards to be used by service applications. The wireless market is growing very quickly and reaching new customers and services. To enable operators and manufacturers to meet the challenges in advanced services, differentiation and fast/flexible service creation, WAP defines a set of protocols in transport, session and application layers. For additional information on the WAP architecture, refer to Wireless Application Protocol Architecture Specification [WAPARCH].  This document specifies the library interface for WMLScript [WMLScript] to provide cryptographic functionality of a WAP client. In addition this document specifies a signed content format to be used to convey signed data to/from WAP devices. This functionality complements transport layer security provided by [WAPWTLS].   The notation and other conventions related to describing a WMLScript library are according to [WMLScript] and [WMLSSL]."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-161_101-WMLScriptCrypto-20010730-a.pdf",
+            "file": "WAP-161_101-WMLScriptCrypto-20010730-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "Specification  Information  Note  (SIN)  fixes  technical  and  clerical  errors  in  the  originally  published  approved specification.  This  SIN  addresses  the  following  issues  in  WAP  WMLScript  Crypto  Library  Specification,  WAP-161-WMLScriptCrypto, Version 05-Nov-1999: • correction in the format of the Static Conformance Requirement"
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-217-WPKI-20010424-a.pdf",
+            "file": "WAP-217-WPKI-20010424-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": ""
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-217_103-WPKI-20011102-a.pdf",
+            "file": "WAP-217_103-WPKI-20011102-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "This document provides changes and corrections to the following document files: - WAP-217-WPKI-20010424-a It includes changes from the following change requests: - CR-WPKI-BALTIMORE-22-10-2001 2. Notation In the subsections describing the changes new text is underlined. Removed text has strikethrough marks. The presented text is copied from the specification. Text that is not presented is not affected at all. The change descriptions may also include editor’s notes similar to the one below. The notes are not part of the actual changes and must not be included in the changed text. Editor's note: Framed notes like these only clarify where and how the changes shall be applied."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-219-TLS-20010411-a.pdf",
+            "file": "WAP-219-TLS-20010411-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "The Wireless  Application  Protocol  (WAP)  is  a  result  of  continuous  work  to  define  an  industry  wide  specification  for  developing applications that operate over wireless communication networks. The scope for the WAP Forum is to define a  set  of  specifications  to  be  used  by  service  applications.  The  wireless  market  is  growing  very  quickly,  reaching  new  customers  and  providing  new  services.  To  enable  operators  and  manufacturers  to  meet  the  challenges  in  advanced  services,  differentiation,  and  fast/flexible  service  creation,  WAP  selects  and  defines  a  set  of  open,  extensible  protocols  and content formats as a basis for interoperable implementations. The objectives of the WAP Forum are: • To bring Internet content and advanced data services to digital cellular phones and other wireless terminals. • To create a global wireless protocol specification that will work across differing wireless network technologies. • To  enable  the  creation  of  content  and  applications  that  scale  across  a  very  wide  range  of  bearer  networks  and  device types. • To embrace and extend existing standards and technology wherever appropriate.  This  specification  defines  the  WAP  profile  for  using  TLS  1.0  as  the  transport  layer  security  protocol,  and  the  TLS  tunneling for enabling the transport level end to end security in the WAP-NG architecture [WAPArch]."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-219_100-TLS-20011029-a.pdf",
+            "file": "WAP-219_100-TLS-20011029-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "This document provides changes and corrections to the following document files: - WAP-219-TLS-20010411-a It includes changes to support latest format specified by: - WAP-221-CREQ-20010425-a 2. Notation In the subsections describing the changes new text is underlined. Removed text has strikethrough marks. The presented text is copied from the specification. Text that is not presented is not affected at all. The change descriptions may also include editor’s notes similar to the one below. The notes are not part of the actual changes and must not be included in the changed text. Editor's note: Framed notes like these only clarify where and how the changes shall be applied."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-261-WTLS-20010406-a.pdf",
+            "file": "WAP-261-WTLS-20010406-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": ""
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-261_100-WTLS-20010926-a.pdf",
+            "file": "WAP-261_100-WTLS-20010926-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "This document provides changes and corrections to the following document files: - WAP-261-WTLS-20010406-a It includes changes from the following change requests: - Change Request Ericsson-2  2001-07-23 2. Notation In the subsections describing the changes new text is underlined. Removed text has strikethrough marks. The presented text is copied from the specification. Text that is not presented is not affected at all. The change descriptions may also include editor’s notes similar to the one below. The notes are not part of the actual changes and must not be included in the changed text. Editor's note: Framed notes like these only clarify where and how the changes shall be applied."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-261_101-WTLS-20011027-a.pdf",
+            "file": "WAP-261_101-WTLS-20011027-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "This document provides changes and corrections to the following document files: - WAP-261-WTLS-20010406-a It includes changes from the following change requests: - Change Request Ericsson-Bangkok-2001-CR-No1  2001-09-26 2. Notation In the subsections describing the changes new text is underlined. Removed text has strikethrough marks. The presented text is copied from the specification. Text that is not presented is not affected at all. The change descriptions may also include editor’s notes similar to the one below. The notes are not part of the actual changes and must not be included in the changed text. Editor's note: Framed notes like these only clarify where and how the changes shall be applied."
+          },
+          {
+            "url": "http://www.openmobilealliance.org/release/WPKI/WAP-261_102-WTLS-20011027-a.pdf",
+            "file": "WAP-261_102-WTLS-20011027-a.pdf",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "application/pdf",
+            "description": "This document provides changes and corrections to the following document files: - WAP-261-WTLS-20010406-a It includes changes from the following change requests: - Change Request Ericsson-Bangkok-2001-CR-No2  2001-09-27 2. Notation In the subsections describing the changes new text is underlined. Removed text has strikethrough marks. The presented text is copied from the specification. Text that is not presented is not affected at all. The change descriptions may also include editor’s notes similar to the one below. The notes are not part of the actual changes and must not be included in the changed text. Editor's note: Framed notes like these only clarify where and how the changes shall be applied."
+          }
+    ]
+}
