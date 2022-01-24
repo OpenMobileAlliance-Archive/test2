@@ -4425,328 +4425,6 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-ERELD-IMPS-V1_1-20021105-A.pdf",
-            "file": "OMA-ERELD-IMPS-V1_1-20021105-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-11-05",
-            "contentMediaType": "application/pdf",
-            "description": "The scope of this document is limited to the Enabler Release Definition of IMPS according to OMA Release process and the Enabler Release specification baseline listed in section 5.  The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-ERELD-IMPS-V1_2-20030221-C.pdf",
-            "file": "OMA-ERELD-IMPS-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The scope of this document is limited to the Enabler Release Definition of IMPS according to OMA Release process and the Enabler Release specification baseline listed in section 5."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-V1_1-20021105-A.zip",
-            "file": "OMA-IMPS-V1_1-20021105-A.zip",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-11-05",
-            "contentMediaType": "application/zip"
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-V1_2-20030221-C.zip",
-            "file": "OMA-IMPS-V1_2-20030221-C.zip",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/zip"
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-Arch-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-Arch-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CLP-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CLP-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CSP-DTD-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CSP-DTD-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CSP-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CSP-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call),  user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)   and   searchable   personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing, computing,  dancing).  Since  presence  information  is  personal,  it  is  only  made  available  according  to  the  user's  wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CSP_DataTypes-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CSP_DataTypes-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way  SMS  and  two-way  paging  are  all  forms  of  Instant  Messaging.   Wireless   Village   IM   will   enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create and manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CSP_SCR-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CSP_SCR-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call),  user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing, computing,  dancing).  Since  presence  information  is  personal,  it  is  only  made  available  according  to  the  user's  wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CSP_SMS-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CSP_SMS-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call),  user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing, computing,  dancing).  Since  presence  information  is  personal,  it  is  only  made  available  according  to  the  user's  wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CSP_Transport-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CSP_Transport-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-CSP_WBXML-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-CSP_WBXML-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-Features_Functions-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-Features_Functions-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-PA-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-PA-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-PA_DTD-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-PA_DTD-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-SSP-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-SSP-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user  status  (available,  unavailable,  in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-SSP_SCR-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-SSP_SCR-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-SSP_Syntax-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-SSP_Syntax-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-IMPS-WV-SSP_Transport-V1_2-20030221-C.pdf",
-            "file": "OMA-IMPS-WV-SSP_Transport-V1_2-20030221-C.pdf",
-            "status": "Candidate",
-            "version": "V1.2",
-            "date": "2003-02-21",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in  a  meeting),  location,  client  device  capabilities  (voice,  text,  GPRS,  multimedia)  and  searchable  personal  statuses  such  as  mood  (happy,  angry)  and  hobbies  (football,  fishing,  computing,  dancing).  Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and  two-way  paging  are  all  forms  of  Instant  Messaging.  Wireless  Village  IM  will  enable  interoperable  mobile  IM  in  concert with other innovative features to provide an enhanced user experience. Groups  or  chat  are  a  fun  and  familiar  concept  on  the  Internet.  Both  operators  and  end-users  are  able  to  create  and  manage  groups.  Users  can  invite  their  friends  and  family  to  chat  in  group  discussions.  Operators  can  build  common  interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These  features,  taken  in  part  or  as  a  whole,  provide  the  basis  for  innovative  new  services  that  build  upon  a  common  interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-Arch-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-Arch-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CLP-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CLP-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CSP-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CSP-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CSP_DataTypes-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CSP_DataTypes-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CSP_DTD-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CSP_DTD-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CSP_SCR-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CSP_SCR-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CSP_SMS-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CSP_SMS-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CSP_Transport-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CSP_Transport-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-CSP_WBXML-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-CSP_WBXML-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-Features_Functions-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-Features_Functions-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-PA-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-PA-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-PA_DTD-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-PA_DTD-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-SSP-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-SSP-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-SSP_SCR-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-SSP_SCR-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-SSP_Syntax-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-SSP_Syntax-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/IMPS/OMA-WV-SSP_Transport-V1_1-20021001-A.pdf",
-            "file": "OMA-WV-SSP_Transport-V1_1-20021001-A.pdf",
-            "status": "Approved",
-            "version": "V1.1",
-            "date": "2002-10-01",
-            "contentMediaType": "application/pdf",
-            "description": "The Wireless Village Instant Messaging and Presence Service (IMPS) includes four primary features: • Presence • Instant Messaging • Groups • Shared Content Presence is the key enabling technology for IMPS. It includes client device availability (my phone is on/off, in a call), user status (available, unavailable, in a meeting), location, client device capabilities (voice, text, GPRS, multimedia) and searchable personal statuses such as mood (happy, angry) and hobbies (football, fishing, computing, dancing). Since presence information is personal, it is only made available according to the user's wishes - access control features put the control of the user presence information in the users' hands. Instant Messaging (IM) is a familiar concept in both the mobile and desktop worlds. Desktop IM clients, two-way SMS and two-way paging are all forms of Instant Messaging. Wireless Village IM will enable interoperable mobile IM in concert with other innovative features to provide an enhanced user experience. Groups or chat are a fun and familiar concept on the Internet. Both operators and end-users are able to create and manage groups. Users can invite their friends and family to chat in group discussions. Operators can build common interest groups where end-users can meet each other online. Shared Content allows users and operators to setup their own storage area where they can post pictures, music and other multimedia content while enabling the sharing with other individuals and groups in an IM or chat session. These features, taken in part or as a whole, provide the basis for innovative new services that build upon a common interoperable framework."
-          },
-          {
             "url": "http://www.openmobilealliance.org/release/IMPS/README.txt",
             "file": "README.txt",
             "status": "",
@@ -6602,32 +6280,6 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MLP/OMA-ERELD-MLP-V3_1-20040316-C.pdf",
-            "file": "OMA-ERELD-MLP-V3_1-20040316-C.pdf",
-            "status": "Candidate",
-            "version": "V3.1",
-            "date": "2004-03-16",
-            "contentMediaType": "application/pdf",
-            "description": "The scope of this document is limited to the Enabler Release Definition of Mobile Location Protocol (MLP) V3.1 according to OMA Release process and the Enabler Release specification baseline listed in section 0."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/MLP/OMA-ERP-LIF-MLP-v3_1-20040316-C.zip",
-            "file": "OMA-ERP-LIF-MLP-v3_1-20040316-C.zip",
-            "status": "Candidate",
-            "version": "V3.1",
-            "date": "2004-03-16",
-            "contentMediaType": "application/zip"
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/MLP/OMA-LIF-MLP-V3_1-20040316-C.pdf",
-            "file": "OMA-LIF-MLP-V3_1-20040316-C.pdf",
-            "status": "Candidate",
-            "version": "V3.1",
-            "date": "2004-03-16",
-            "contentMediaType": "application/pdf",
-            "description": "The Mobile Location Protocol (MLP) is an application-level protocol for getting the position of mobile stations (mobile phones, wireless personal digital assistants, etc.) independent of underlying network technology, i.e., independent of location derivation technology and bearer. The MLP serves as the interface between a Location Server and a Location Services (LCS) Client. This specification defines the core set of operations that a Location Server should be able to perform."
-          },
-          {
             "url": "http://www.openmobilealliance.org/release/MLP/README.txt",
             "file": "README.txt",
             "status": "",
@@ -8094,77 +7746,6 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-ERELD-OWSER-V1_0-20040316-C.pdf",
-            "file": "OMA-ERELD-OWSER-V1_0-20040316-C.pdf",
-            "status": "Candidate",
-            "version": "V1.0",
-            "date": "2004-03-16",
-            "contentMediaType": "application/pdf",
-            "description": "The scope of this document is limited to the Enabler Release Definition of the OMA Web Services Enabler (OWSER) according to OMA Release process and the Enabler Release specification baseline listed in section 5."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-MWS_RD-V1_0-20031120-A.pdf",
-            "file": "OMA-MWS_RD-V1_0-20031120-A.pdf",
-            "status": "Approved",
-            "version": "V1.0",
-            "date": "2003-11-20",
-            "contentMediaType": "application/pdf",
-            "description": "This document provides OMA requirements for mobile web services  The  requirements  are  primarily  based  on  the  use  cases  compiled  by  the  Mobile  Web  Service  Group  [Error!  Reference  source not found.].  The output of the OMA Architecture use cases [Error! Reference source not found.], OMA REQ use cases and use cases produced by other working groups further refined the requirements specified in this document. The requirements specified in this document shall be adhered to by all OMA Web Services: • OMA Web Services Enabler release • OMA service enablers exposing their capabilities as Web services Because the OMA MWS specifications in general provide web services realizations respectively of the OMA architecture and components of the OMA architecture (enablers), the present document has also implications on the OMA architecture and enabler specifications."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-OWSER-Best_Practice-WSDL_Style_Guide-V1_0-20040316-A.pdf",
-            "file": "OMA-OWSER-Best_Practice-WSDL_Style_Guide-V1_0-20040316-A.pdf",
-            "status": "Approved",
-            "version": "V1.0",
-            "date": "2004-03-16",
-            "contentMediaType": "application/pdf",
-            "description": "This document provides informative information for the use of the WSDL that should be followed for OMA defined Web Services. The scope of content is consistent with the capabilities described in the MWS Overview and MWS Core Specification documents, and does not provide information beyond that required to support these capabilities. This is the first in a series of best practices that are expected to be produced as part of the OWSER. Through the use of these best practices, it is expected that there will be a coherent and consistent approach to the use of Web Services in an OMA environment."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-OWSER-Core-Specification-V1_0-20040316-C.pdf",
-            "file": "OMA-OWSER-Core-Specification-V1_0-20040316-C.pdf",
-            "status": "Candidate",
-            "version": "V1.0",
-            "date": "2004-03-16",
-            "contentMediaType": "application/pdf",
-            "description": "This document is part of a group of documents [OWSEROvw] [OWSERNI] [OWSERBP] that will be used to specify components of the OMA Web Services Enabler Release (OWSER). This document specifies the Web Service technologies that will be used to publish, discover and use these components in a secure, controlled and auditable manner. The OMA Web Services Enabler (OWSER) defines the means by which OMA applications can be exposed, discovered and consumed using Web Services technologies.  The purpose of the OWSER is to provide designers of Web Services within OMA with solutions to common functions using Web Services technologies.  Without such a framework, designers of Web Services within OMA would almost certainly try to solve these problems on their own, each in their own way.  Such an effort would inevitably lead to brittle implementations, interoperability problems, and increased time to market. These goals are consistent with those expressed in the OMA Service Enabler Strategy White Paper [OMASES].  The OMA Web Services Enabler (OWSER): Overview document [OWSEROvw] provides the rationale for using Web Services and an overview of the technologies to implement a set of identified common functions that are expected to be available to all OMA applications. The OMA Web Services Enabler (OWSER): Network Identity Specifications [OWSERNI] document specifies the components needed to support aspects of network identity related capabilities of the OWSER. The OMA Web Services Enabler (OWSER) Best Practices: WSDL Style Guide [OWSERBP] provides non-normative information on the use of WSDL that may be used by OMA-defined Web Services. This document provides the specifications of the components needed to provide the capabilities of the OWSER as identified in [OWSEROvw], in particular the normative use of Web Service technologies to implement such capabilities.  Ths document is intended to provide normative guidance to designers of specific OMA Web Services and implementers thereof. Therefore, material of a tutorial nature is kept to a minimum.  Not all components of the OWSER are specified in this version (1.0) of the document. This version specifies technologies that will enable applications acting in the role of Web Service Requesters (WSR) to access services offered by Web Service providers (WSP). No restriction is placed on the types of computing devices – mobile terminals, personal computers, servers etc. – that can be WSRs or WSPs, so long as they are capable of supporting the technologies specified in this document. Future versions of this specification will provide additional functionality to complete the full range of capabilities offered by the OWSER."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-OWSER-Network_Identity-Specification-V1_0-20040316-C.pdf",
-            "file": "OMA-OWSER-Network_Identity-Specification-V1_0-20040316-C.pdf",
-            "status": "Candidate",
-            "version": "V1.0",
-            "date": "2004-03-16",
-            "contentMediaType": "application/pdf",
-            "description": "This document is part of a series of documents [OWSERSpec] [OWSEROvw] that will be used to specify components of the OMA Web Services Enabler (OWSER). This document specifies the technologies dealing with Network Identity. The OMA Web Services Enabler (OWSER) defines the means by which OMA applications can be exposed, discovered and consumed using Web Services technologies.  The purpose of the OWSER is to provide designers of Web Services within OMA with solutions to common functions using Web Services technologies.  Without such a framework, designers of Web Services within OMA would almost certainly try to solve these problems on their own, each in their own way.  Such an effort would inevitably lead to brittle implementations, interoperability problems, and increased time to market. These goals are consistent with those expressed in the OMA Service Enabler Strategy White Paper [SESWP]. The “OMA Web Services Enabler (OWSER): Overview” document [OWSEROvw] provides the rationale for using Web Services and an overview of the technologies to implement a set of identified common functions that are expected to be available to all OMA applications. The “OMA Web Services Enabler (OWSER): Core Specifications” document  [OWSERSpec] provides the specifications of the components needed to provide the capabilities of the OWSER as identified in [OWSEROvw], in particular the normative use of Web Service technologies to implement such capabilities.  This document, namely the “OMA Web Services Enabler (OWSER): Network Identity Specifications” document, provides the specifications of the components needed to provide aspects of the Network Identity related capabilities of the OWSER, as described in [OWSEROvw]. This document is intended to provide normative guidance to designers of specific OMA Network Identity Web Services and implementers thereof."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-OWSER-Overview-V1_0-20040316-C.pdf",
-            "file": "OMA-OWSER-Overview-V1_0-20040316-C.pdf",
-            "status": "Candidate",
-            "version": "V1.0",
-            "date": "2004-03-16",
-            "contentMediaType": "application/pdf",
-            "description": "This document, entitled \"OMA Web Services Enabler (OWSER): Overview,\" is part of a group of documents [OWSERSpec] [OWSERNI] and [OWSERBP] that together describe and specify components of the OMA Web Services Enabler (OWSER).  This OWSER Overview is informative and provides an overview of the OWSER and the Web Service technologies that will be used to publish, discover and use components that support Mobile Web Services in a secure manner. It is intended to complement the normative text found in the companion OWSER Specifications. The OMA Web Services Enabler defines the means by which OMA applications can be exposed, discovered and consumed using Web Services technologies.  The purpose of the OWSER is to provide designers of Web Services within OMA with solutions to common functionality using Web Services technologies.  Without such a framework, designers of Web Services within OMA would almost certainly try to solve these problems on their own, each in their own way.  Such an effort would inevitably lead to brittle implementations, interoperability problems, and increased time to market. The goals of the OWSER are consistent with those expressed in the OMA Service Enabler Strategy White Paper [OMASES]. The document entitled \"OMA Web Services Enabler (OWSER): Core Specifications\" [OWSERSpec] provides the specifications of the components needed to provide the capabilities of the OWSER as identified in this document, in particular the normative use of Web Service technologies to implement such capabilities.  The document entitled \"OMA Web Services Enabler (OWSER): Network Identity Specifications\" [OWSERNI] specifies the components needed to support the aspects of Network Identity related to capabilities of the OWSER. The document entitled \"OMA Web Services Enabler (OSWER) Best Practices: WSDL Style Guide\" [OWSERBP] provides informative guidelines on the use of the Web Services Description Language [WSDL] that may be used by OMA-defined Web Services. While the normative definition of technologies specified in the OWSER is rightly provided in the specification documents themselves ([OWSERSpec] and [OWSERNI]), the Overview provides some information on technologies which are considered to be within the scope or outside the scope of the current OWSER release.  In particular, Sections 7, 7.1, and 7.2.2 contain specific scope information."
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-OWSER-V1_0-20040316-C.zip",
-            "file": "OMA-OWSER-V1_0-20040316-C.zip",
-            "status": "Candidate",
-            "version": "V1.0",
-            "date": "2004-03-16",
-            "contentMediaType": "application/zip"
-          },
-          {
-            "url": "http://www.openmobilealliance.org/release/OWSER/OMA-RD_MWS_NI-V1_0-20031120-A.pdf",
-            "file": "OMA-RD_MWS_NI-V1_0-20031120-A.pdf",
-            "status": "Approved",
-            "version": "V1.0",
-            "date": "2003-11-20",
-            "contentMediaType": "application/pdf",
-            "description": "This document lists the requirements generated by the OMA Mobile Web Services (MWS) Working Group in the area of Identity Management."
-          },
-          {
             "url": "http://www.openmobilealliance.org/release/OWSER/README.txt",
             "file": "README.txt",
             "status": "",
@@ -8506,12 +8087,20 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_CO_Detector/OMA-SUP-XML_502-V1_0-20200717-A.xml",
-            "file": "OMA-SUP-XML_502-V1_0-20200717-A.xml",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_COSE/README.txt",
+            "file": "README.txt",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "text/plain"
+          }
+        ],
+        "versions": [
+          {
+            "name": "V1_0-20200717-A",
             "status": "Approved",
             "version": "V1.0",
-            "date": "2020-07-17",
-            "contentMediaType": "application/xml"
+            "date": "2020-07-17"
           }
         ]
       }
@@ -8799,12 +8388,20 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Fire_Alarm/OMA-SUP-XML_503-V1_0-20200717-A.xml",
-            "file": "OMA-SUP-XML_503-V1_0-20200717-A.xml",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Device/README.txt",
+            "file": "README.txt",
+            "status": "",
+            "version": "",
+            "date": "",
+            "contentMediaType": "text/plain"
+          }
+        ],
+        "versions": [
+          {
+            "name": "V1_0-20170717-A",
             "status": "Approved",
             "version": "V1.0",
-            "date": "2020-07-17",
-            "contentMediaType": "application/xml"
+            "date": "2017-07-17"
           }
         ]
       }
