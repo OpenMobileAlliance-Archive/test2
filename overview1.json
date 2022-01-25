@@ -8,29 +8,29 @@
     "ftp": "https://www.openmobilealliance.org/release/",
     "about": "about organization",
     "email": "info@omaorg.org"
-    },
+  },
   "enablers": [
     {
       "name": "OMA 3D Contents Creation Service APIs",
       "abbreviation": "3DCAPI",
       "data": {
-          "resources": [
-            {
-                "name": "README",
-                "resourceType": "Overview",
-                "url": "README.txt"
-            },
-            {
-                "name": "Search",
-                "resourceType": "API",
-                "url": "http://www.openmobilealliance.org/xxx/"
-            },
-            {
-              "name": "Bugs",
-              "resourceType": "Issue",
-              "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
+        "resources": [
+          {
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
+          },
+          {
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
+          },
+          {
+            "name": "Bugs",
+            "resourceType": "Issue",
+            "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
           }
-          ],
+        ],
         "publications": [
           {
             "url": "http://www.openmobilealliance.org/release/3DCAPI/README.txt",
@@ -57,20 +57,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -110,20 +110,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -157,20 +157,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -210,20 +210,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -263,20 +263,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Submit",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -322,20 +322,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -465,20 +465,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -512,20 +512,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -559,20 +559,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -606,20 +606,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -755,20 +755,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -838,20 +838,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -909,20 +909,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -974,20 +974,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1033,20 +1033,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1098,20 +1098,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1193,20 +1193,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1288,20 +1288,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1335,20 +1335,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1388,20 +1388,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1471,20 +1471,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1530,20 +1530,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1607,20 +1607,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1660,20 +1660,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1737,20 +1737,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "versions": [
           {
@@ -1786,20 +1786,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1839,20 +1839,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -1916,20 +1916,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2005,14 +2005,14 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
@@ -2237,20 +2237,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2284,20 +2284,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2361,20 +2361,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2444,20 +2444,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2491,20 +2491,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2544,20 +2544,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2711,20 +2711,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2812,20 +2812,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2859,20 +2859,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2906,20 +2906,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -2953,20 +2953,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3006,20 +3006,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3065,20 +3065,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3184,20 +3184,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3231,20 +3231,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3314,20 +3314,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3379,20 +3379,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3426,20 +3426,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3473,20 +3473,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3520,20 +3520,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3573,20 +3573,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3626,20 +3626,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3697,20 +3697,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3756,20 +3756,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3821,20 +3821,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3868,20 +3868,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3927,20 +3927,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -3992,20 +3992,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4039,20 +4039,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4092,20 +4092,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4187,20 +4187,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4219,22 +4219,22 @@
       "abbreviation": "IGA",
       "data": {
         "resources": [
-        {
+          {
             "name": "README",
             "resourceType": "Overview",
             "url": "README.txt"
-        },
-        {
+          },
+          {
             "name": "Search",
             "resourceType": "API",
             "url": "http://www.openmobilealliance.org/xxx/"
-        },
-        {
-          "name": "Bugs",
-          "resourceType": "Issue",
-          "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-      }
-      ],
+          },
+          {
+            "name": "Bugs",
+            "resourceType": "Issue",
+            "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
+          }
+        ],
         "publications": [
           {
             "url": "http://www.openmobilealliance.org/release/IGA/README.txt",
@@ -4279,20 +4279,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4320,20 +4320,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4367,20 +4367,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4408,20 +4408,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4485,20 +4485,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4532,20 +4532,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4585,20 +4585,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4644,20 +4644,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4697,20 +4697,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4756,20 +4756,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4803,20 +4803,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4880,20 +4880,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4921,20 +4921,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -4980,20 +4980,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5057,20 +5057,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5182,20 +5182,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5247,20 +5247,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5318,20 +5318,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5395,20 +5395,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5448,20 +5448,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5520,14 +5520,19 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Presentation",
+            "resourceType": "Overview",
+            "url": "Lightweight_Machine_to_Machine-v1_1-OMASpecworks.pdf"
+          },
+          {
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
@@ -5545,9 +5550,9 @@
             "url": "https://devtoolkit.openmobilealliance.org/OEditor/default.aspx"
           },
           {
-              "name": "MD2HTML",
-              "resourceType": "Tool",
-              "url": "https://www.md2html-tool.com/#/"
+            "name": "MD2HTML",
+            "resourceType": "Tool",
+            "url": "https://www.md2html-tool.com/#/"
           },
           {
             "name": "ObjLwM2M 5GNR_Conn",
@@ -5560,76 +5565,67 @@
             "url": "http://www.openmobilealliance.org/release/ObjLwM2M_ACL/"
           },
           {
-              "name": "ObjLwM2M Conn Mon",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Mon/"
+            "name": "ObjLwM2M Conn Mon",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Mon/"
           },
           {
-              "name": "ObjLwM2M Conn Stat",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Stat/"
+            "name": "ObjLwM2M Conn Stat",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Stat/"
           },
           {
-              "name": "ObjLwM2M COSE",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_COSE/"
+            "name": "ObjLwM2M COSE",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_COSE/"
           },
           {
-              "name": "ObjLwM2M Device",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Device/"
+            "name": "ObjLwM2M Device",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Device/"
           },
           {
-              "name": "ObjLwM2M Firmware",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Firmware/"
+            "name": "ObjLwM2M Firmware",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Firmware/"
           },
           {
-              "name": "ObjLwM2M Gateway",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Gateway/"
+            "name": "ObjLwM2M Gateway",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Gateway/"
           },
           {
-              "name": "ObjLwM2M Location",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Location/"
+            "name": "ObjLwM2M Location",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Location/"
           },
           {
-              "name": "ObjLwM2M MQTT_Server",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_MQTT_Server/"
+            "name": "ObjLwM2M MQTT_Server",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_MQTT_Server/"
           },
           {
-              "name": "ObjLwM2M OSCORE",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_OSCORE/"
+            "name": "ObjLwM2M OSCORE",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_OSCORE/"
           },
           {
-              "name": "ObjLwM2M Routing",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Routing/"
+            "name": "ObjLwM2M Routing",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Routing/"
           },
           {
-              "name": "ObjLwM2M Security",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Security/"
+            "name": "ObjLwM2M Security",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Security/"
           },
           {
-              "name": "ObjLwM2M Server",
-              "resourceType": "Dependency",
-              "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Server/"
+            "name": "ObjLwM2M Server",
+            "resourceType": "Dependency",
+            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Server/"
           }
         ],
         "publications": [
-          {
-            "url": "http://www.openmobilealliance.org/release/LightweightM2M/Lightweight_Machine_to_Machine-v1_1-OMASpecworks.pdf",
-            "file": "Lightweight_Machine_to_Machine-v1_1-OMASpecworks.pdf",
-            "status": "",
-            "version": "",
-            "date": "",
-            "contentMediaType": "application/pdf",
-            "description": ""
-          },
           {
             "url": "http://www.openmobilealliance.org/release/LightweightM2M/README.txt",
             "file": "README.txt",
@@ -5763,20 +5759,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5816,20 +5812,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5869,20 +5865,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5922,20 +5918,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -5963,20 +5959,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6016,20 +6012,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6063,20 +6059,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6110,20 +6106,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6163,20 +6159,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6210,20 +6206,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6263,20 +6259,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6304,20 +6300,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6507,20 +6503,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6560,20 +6556,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6679,20 +6675,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6726,20 +6722,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6791,20 +6787,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6844,20 +6840,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6915,20 +6911,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -6968,20 +6964,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7039,20 +7035,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7110,20 +7106,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7163,20 +7159,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7234,20 +7230,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7281,20 +7277,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7328,20 +7324,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7387,20 +7383,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7440,20 +7436,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7487,20 +7483,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7546,20 +7542,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7593,20 +7589,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7676,20 +7672,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7729,20 +7725,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7782,20 +7778,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7829,20 +7825,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7870,20 +7866,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7935,20 +7931,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -7982,20 +7978,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8029,20 +8025,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8070,20 +8066,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8111,20 +8107,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8158,20 +8154,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8229,20 +8225,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8300,20 +8296,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8371,20 +8367,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8412,20 +8408,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8477,20 +8473,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8518,20 +8514,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8577,20 +8573,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8618,20 +8614,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8677,20 +8673,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8718,20 +8714,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8783,20 +8779,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8848,20 +8844,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8901,20 +8897,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -8972,20 +8968,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9055,20 +9051,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9132,20 +9128,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9179,20 +9175,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9280,20 +9276,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9351,20 +9347,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9404,20 +9400,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9463,20 +9459,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9510,20 +9506,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9581,20 +9577,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9640,20 +9636,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9843,20 +9839,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -9896,20 +9892,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10063,20 +10059,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10116,20 +10112,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10211,20 +10207,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10264,20 +10260,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10317,20 +10313,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10364,20 +10360,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10417,20 +10413,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10476,20 +10472,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10517,20 +10513,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10576,20 +10572,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10629,20 +10625,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10694,20 +10690,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "versions": [
           {
@@ -10725,20 +10721,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10778,20 +10774,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10837,20 +10833,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10884,20 +10880,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10931,20 +10927,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -10984,20 +10980,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11031,20 +11027,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11108,20 +11104,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11161,20 +11157,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11214,20 +11210,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11267,20 +11263,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11314,20 +11310,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11367,20 +11363,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11420,20 +11416,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11473,20 +11469,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11532,20 +11528,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11585,20 +11581,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11644,20 +11640,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11703,20 +11699,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11804,20 +11800,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -11929,20 +11925,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12006,20 +12002,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12083,20 +12079,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12142,20 +12138,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12189,20 +12185,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12242,20 +12238,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12319,20 +12315,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12372,20 +12368,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12575,20 +12571,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12622,20 +12618,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12663,20 +12659,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12716,20 +12712,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12775,20 +12771,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12828,20 +12824,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12875,20 +12871,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12934,20 +12930,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -12981,20 +12977,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13028,20 +13024,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13069,20 +13065,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13128,20 +13124,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13193,20 +13189,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13240,20 +13236,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13293,20 +13289,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "versions": [
           {
@@ -13330,20 +13326,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13371,20 +13367,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13424,20 +13420,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13471,20 +13467,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13518,20 +13514,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13571,20 +13567,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13612,20 +13608,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13653,20 +13649,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13694,20 +13690,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13741,20 +13737,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -13974,20 +13970,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
@@ -14021,20 +14017,20 @@
       "data": {
         "resources": [
           {
-              "name": "README",
-              "resourceType": "Overview",
-              "url": "README.txt"
+            "name": "README",
+            "resourceType": "Overview",
+            "url": "README.txt"
           },
           {
-              "name": "Search",
-              "resourceType": "API",
-              "url": "http://www.openmobilealliance.org/xxx/"
+            "name": "Search",
+            "resourceType": "API",
+            "url": "http://www.openmobilealliance.org/xxx/"
           },
           {
             "name": "Bugs",
             "resourceType": "Issue",
             "url": "mailto:helpdesk@omaorg.org?subject=Feedback"
-        }
+          }
         ],
         "publications": [
           {
