@@ -54,77 +54,77 @@
                     {
                         "name": "ObjLwM2M 5GNR_Conn",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_5GNR_Conn/"
+                        "url": "https://www.openmobilealliance.org/release/ObjLwM2M_5GNR_Conn/"
                     },
                     {
                         "name": "ObjLwM2M ACL",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_ACL/"
+                        "url": "ObjLwM2M_ACL/"
                     },
                     {
                         "name": "ObjLwM2M Conn Mon",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Mon/"
+                        "url": "ObjLwM2M_Conn_Mon/"
                     },
                     {
                         "name": "ObjLwM2M Conn Stat",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Stat/"
+                        "url": "ObjLwM2M_Conn_Stat/"
                     },
                     {
                         "name": "ObjLwM2M COSE",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_COSE/"
+                        "url": "ObjLwM2M_COSE/"
                     },
                     {
                         "name": "ObjLwM2M Device",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Device/"
+                        "url": "ObjLwM2M_Device/"
                     },
                     {
                         "name": "ObjLwM2M Firmware",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Firmware/"
+                        "url": "ObjLwM2M_Firmware/"
                     },
                     {
                         "name": "ObjLwM2M Gateway",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Gateway/"
+                        "url": "ObjLwM2M_Gateway/"
                     },
                     {
                         "name": "ObjLwM2M Location",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Location/"
+                        "url": "ObjLwM2M_Location/"
                     },
                     {
                         "name": "ObjLwM2M MQTT_Server",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_MQTT_Server/"
+                        "url": "ObjLwM2M_MQTT_Server/"
                     },
                     {
                         "name": "ObjLwM2M OSCORE",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_OSCORE/"
+                        "url": "ObjLwM2M_OSCORE/"
                     },
                     {
                         "name": "ObjLwM2M Routing",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Routing/"
+                        "url": "ObjLwM2M_Routing/"
                     },
                     {
                         "name": "ObjLwM2M Security",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Security/"
+                        "url": "ObjLwM2M_Security/"
                     },
                     {
                         "name": "ObjLwM2M Server",
                         "resourceType": "Dependency",
-                        "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Server/"
+                        "url": "ObjLwM2M_Server/"
                     }
                 ],
                 "publications": [
                     {
-                        "url": "http://www.openmobilealliance.org/release/LightweightM2M/README.txt",
+                        "url": "LightweightM2M/README.txt",
                         "file": "README.txt",
                         "status": "",
                         "version": "",

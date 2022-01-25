@@ -33,7 +33,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/3DCAPI/README.txt",
+            "url": "3DCAPI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -74,7 +74,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/AC_MO/README.txt",
+            "url": "AC_MO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -127,7 +127,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/AOI/README.txt",
+            "url": " AOI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -174,7 +174,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/AddressBookREST/README.txt",
+            "url": "AddressBookREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -227,7 +227,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/AudioCallREST/README.txt",
+            "url": "AudioCallREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -280,7 +280,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Autho4API/README.txt",
+            "url": "Autho4API/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -339,7 +339,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/BCAST/README.txt",
+            "url": "BCAST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -482,7 +482,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/BMO/README.txt",
+            "url": "BMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -529,7 +529,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Billing/README.txt",
+            "url": "Billing/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -576,7 +576,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Browser_Protocol_Stack/README.txt",
+            "url": "Browser_Protocol_Stack/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -623,7 +623,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Browsing/README.txt",
+            "url": "Browsing/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -772,7 +772,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CAB/README.txt",
+            "url": "CAB/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -855,7 +855,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CBCS/README.txt",
+            "url": "CBCS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -926,7 +926,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CBUS/README.txt",
+            "url": "CBUS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -991,7 +991,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CMI/README.txt",
+            "url": "CMI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1050,7 +1050,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CMR/README.txt",
+            "url": "CMR/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1115,7 +1115,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CPM/README.txt",
+            "url": "CPM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1210,7 +1210,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CPNS/README.txt",
+            "url": "CPNS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1305,7 +1305,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CSEA/README.txt",
+            "url": "CSEA/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1352,7 +1352,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/CallNotificationREST/README.txt",
+            "url": "CallNotificationREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1405,7 +1405,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Charging/README.txt",
+            "url": "Charging/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1488,7 +1488,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Charging_Data/README.txt",
+            "url": "Charging_Data/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1547,7 +1547,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ClientProv/README.txt",
+            "url": "ClientProv/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1624,7 +1624,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Client_Side_CS_FW/README.txt",
+            "url": "Client_Side_CS_FW/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1677,7 +1677,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Common/README.txt",
+            "url": "Common/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1803,7 +1803,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DANE/README.txt",
+            "url": "DANE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1856,7 +1856,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DCD/README.txt",
+            "url": "DCD/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -1933,7 +1933,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DCMO/README.txt",
+            "url": "DCMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2027,7 +2027,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DM/README.txt",
+            "url": "DM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2254,7 +2254,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DMClientAPIfw/README.txt",
+            "url": "DMClientAPIfw/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2301,7 +2301,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DM_SC/README.txt",
+            "url": "DM_SC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2378,7 +2378,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DM_Scheduling/README.txt",
+            "url": "DM_Scheduling/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2461,7 +2461,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DNS/README.txt",
+            "url": "DNS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2508,7 +2508,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DPE/README.txt",
+            "url": "DPE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2561,7 +2561,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DRM/README.txt",
+            "url": "DRM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2728,7 +2728,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DS/README.txt",
+            "url": "DS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2829,7 +2829,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DWAPI/README.txt",
+            "url": "DWAPI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2876,7 +2876,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DWAPI_3DP/README.txt",
+            "url": "DWAPI_3DP/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2923,7 +2923,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Data_Object/README.txt",
+            "url": "Data_Object/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -2970,7 +2970,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DeltaRec/README.txt",
+            "url": "DeltaRec/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3023,7 +3023,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DevCapREST/README.txt",
+            "url": "DevCapREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3082,7 +3082,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DiagMon/README.txt",
+            "url": "DiagMon/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3201,7 +3201,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DiagVoLTE/README.txt",
+            "url": "DiagVoLTE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3248,7 +3248,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Download/README.txt",
+            "url": "Download/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3331,7 +3331,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/DynNav/README.txt",
+            "url": "DynNav/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3396,7 +3396,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/EFI/README.txt",
+            "url": "EFI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3443,7 +3443,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ENCap/README.txt",
+            "url": "ENCap/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3490,7 +3490,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/EVC/README.txt",
+            "url": "EVC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3537,7 +3537,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/EVVM/README.txt",
+            "url": "EVVM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3590,7 +3590,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/EmailNot/README.txt",
+            "url": "EmailNot/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3643,7 +3643,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/FUMO/README.txt",
+            "url": "FUMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3714,7 +3714,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GOTAPI/README.txt",
+            "url": "GOTAPI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3773,7 +3773,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GPM/README.txt",
+            "url": "GPM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3838,7 +3838,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GS/README.txt",
+            "url": "GS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3885,7 +3885,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GS-CSI/README.txt",
+            "url": "GS-CSI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -3944,7 +3944,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GSSM/README.txt",
+            "url": "GSSM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4009,7 +4009,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GS_API/README.txt",
+            "url": "GS_API/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4056,7 +4056,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GuidelinesREST/README.txt",
+            "url": "GuidelinesREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4109,7 +4109,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/GwMO/README.txt",
+            "url": "GwMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4204,7 +4204,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/HTML_Deployment_Suite/README.txt",
+            "url": "HTML_Deployment_Suite/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4237,7 +4237,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IGA/README.txt",
+            "url": "IGA/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4296,7 +4296,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IGC/README.txt",
+            "url": "IGC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4337,7 +4337,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IM/README.txt",
+            "url": "IM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4384,7 +4384,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IMF/README.txt",
+            "url": "IMF/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4425,7 +4425,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IMPS/README.txt",
+            "url": "IMPS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4502,7 +4502,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IMPS_impl/README.txt",
+            "url": "IMPS_impl/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4549,7 +4549,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/IMS/README.txt",
+            "url": "IMS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4602,7 +4602,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ISC/README.txt",
+            "url": "ISC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4661,7 +4661,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ImageShareREST/README.txt",
+            "url": "ImageShareREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4714,7 +4714,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/KPIinOMA/README.txt",
+            "url": "KPIinOMA/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4773,7 +4773,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LAO/README.txt",
+            "url": "LAO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4820,7 +4820,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LAW_MO/README.txt",
+            "url": "LAW_MO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4897,7 +4897,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LER/README.txt",
+            "url": "LER/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4938,7 +4938,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LFC/README.txt",
+            "url": "LFC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -4997,7 +4997,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LOCSIP/README.txt",
+            "url": "LOCSIP/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5074,7 +5074,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LPPe/README.txt",
+            "url": "LPPe/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5199,7 +5199,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LWM2M_CONNMGMT/README.txt",
+            "url": "LWM2M_CONNMGMT/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5264,7 +5264,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LWM2M_DevCapMgmt/README.txt",
+            "url": "LWM2M_DevCapMgmt/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5335,7 +5335,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LWM2M_LOCKWIPE/README.txt",
+            "url": "LWM2M_LOCKWIPE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5412,7 +5412,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LWM2M_PortfolioObj/README.txt",
+            "url": "LWM2M_PortfolioObj/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5465,7 +5465,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LWM2M_SWMGMT/README.txt",
+            "url": "LWM2M_SWMGMT/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5557,77 +5557,77 @@
           {
             "name": "ObjLwM2M 5GNR_Conn",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_5GNR_Conn/"
+            "url": "ObjLwM2M_5GNR_Conn/"
           },
           {
             "name": "ObjLwM2M ACL",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_ACL/"
+            "url": "ObjLwM2M_ACL/"
           },
           {
             "name": "ObjLwM2M Conn Mon",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Mon/"
+            "url": "ObjLwM2M_Conn_Mon/"
           },
           {
             "name": "ObjLwM2M Conn Stat",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Stat/"
+            "url": "ObjLwM2M_Conn_Stat/"
           },
           {
             "name": "ObjLwM2M COSE",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_COSE/"
+            "url": "ObjLwM2M_COSE/"
           },
           {
             "name": "ObjLwM2M Device",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Device/"
+            "url": "ObjLwM2M_Device/"
           },
           {
             "name": "ObjLwM2M Firmware",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Firmware/"
+            "url": "ObjLwM2M_Firmware/"
           },
           {
             "name": "ObjLwM2M Gateway",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Gateway/"
+            "url": "ObjLwM2M_Gateway/"
           },
           {
             "name": "ObjLwM2M Location",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Location/"
+            "url": "ObjLwM2M_Location/"
           },
           {
             "name": "ObjLwM2M MQTT_Server",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_MQTT_Server/"
+            "url": "ObjLwM2M_MQTT_Server/"
           },
           {
             "name": "ObjLwM2M OSCORE",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_OSCORE/"
+            "url": "ObjLwM2M_OSCORE/"
           },
           {
             "name": "ObjLwM2M Routing",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Routing/"
+            "url": "ObjLwM2M_Routing/"
           },
           {
             "name": "ObjLwM2M Security",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Security/"
+            "url": "ObjLwM2M_Security/"
           },
           {
             "name": "ObjLwM2M Server",
             "resourceType": "Dependency",
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Server/"
+            "url": "ObjLwM2M_Server/"
           }
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LightweightM2M/README.txt",
+            "url": "LightweightM2M/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5776,7 +5776,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ListMO/README.txt",
+            "url": "ListMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5829,7 +5829,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LwM2M_APPDATA/README.txt",
+            "url": "LwM2M_APPDATA/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5882,7 +5882,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LwM2M_EventLog/README.txt",
+            "url": "LwM2M_EventLog/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5935,7 +5935,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LwM2M_Gateway/README.txt",
+            "url": "LwM2M_Gateway/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -5976,7 +5976,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/LwM2M_VON/README.txt",
+            "url": "LwM2M_VON/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6029,7 +6029,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/M2M_Device_Classification/README.txt",
+            "url": "M2M_Device_Classification/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6076,7 +6076,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/M2Minterface/README.txt",
+            "url": "M2Minterface/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6123,7 +6123,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MEM/README.txt",
+            "url": "MEM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6176,7 +6176,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MGPC/README.txt",
+            "url": "MGPC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6223,7 +6223,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MIW/README.txt",
+            "url": "MIW/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6276,7 +6276,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MLP/README.txt",
+            "url": "MLP/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6317,7 +6317,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MLS/README.txt",
+            "url": "MLS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6520,7 +6520,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MMMD/README.txt",
+            "url": "MMMD/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6573,7 +6573,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MMS/README.txt",
+            "url": "MMS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6692,7 +6692,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MO_Design_Guidelines/README.txt",
+            "url": "MO_Design_Guidelines/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6739,7 +6739,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MSrchFramework/README.txt",
+            "url": "MSrchFramework/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6804,7 +6804,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MessagingREST/README.txt",
+            "url": "MessagingREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6857,7 +6857,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MgmtPolicyMO/README.txt",
+            "url": "MgmtPolicyMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6928,7 +6928,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MobAR/README.txt",
+            "url": "MobAR/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -6981,7 +6981,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MobAd/README.txt",
+            "url": "MobAd/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7052,7 +7052,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MobileCodes/README.txt",
+            "url": "MobileCodes/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7123,7 +7123,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/MobileDomainSMIL/README.txt",
+            "url": "MobileDomainSMIL/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7176,7 +7176,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/NGSI/README.txt",
+            "url": "NGSI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7247,7 +7247,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/NGSI_S/README.txt",
+            "url": "NGSI_S/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7294,7 +7294,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/NavSe/README.txt",
+            "url": "NavSe/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7341,7 +7341,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/NotifChanREST/README.txt",
+            "url": "NotifChanREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7400,7 +7400,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OBKG/README.txt",
+            "url": "OBKG/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7453,7 +7453,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OCSP/README.txt",
+            "url": "OCSP/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7500,7 +7500,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OGSA/README.txt",
+            "url": "OGSA/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7559,7 +7559,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OIG/README.txt",
+            "url": "OIG/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7606,7 +7606,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OSE/README.txt",
+            "url": "OSE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7689,7 +7689,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OSPE/README.txt",
+            "url": "OSPE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7742,7 +7742,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OWSER/README.txt",
+            "url": "OWSER/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7795,7 +7795,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OWSER_NI/README.txt",
+            "url": "OWSER_NI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7842,7 +7842,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_5GNR_Conn/README.txt",
+            "url": "ObjLwM2M_5GNR_Conn/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7883,7 +7883,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_ACL/README.txt",
+            "url": "ObjLwM2M_ACL/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7948,7 +7948,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_APN_Conn/README.txt",
+            "url": "ObjLwM2M_APN_Conn/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -7995,7 +7995,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Bearer_Conn/README.txt",
+            "url": "ObjLwM2M_Bearer_Conn/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8042,7 +8042,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_COSE/README.txt",
+            "url": "ObjLwM2M_COSE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8083,7 +8083,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_COSE/README.txt",
+            "url": "ObjLwM2M_COSE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8124,7 +8124,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Cell_Conn/README.txt",
+            "url": "ObjLwM2M_Cell_Conn/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8171,7 +8171,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Mon/README.txt",
+            "url": "ObjLwM2M_Conn_Mon/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8242,7 +8242,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Conn_Stat/README.txt",
+            "url": "ObjLwM2M_Conn_Stat/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8313,7 +8313,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Device/README.txt",
+            "url": "ObjLwM2M_Device/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8384,7 +8384,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Device/README.txt",
+            "url": "ObjLwM2M_Device/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8425,7 +8425,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Firmware/README.txt",
+            "url": "ObjLwM2M_Firmware/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8490,7 +8490,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Gateway/README.txt",
+            "url": "ObjLwM2M_Gateway/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8531,7 +8531,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Location/README.txt",
+            "url": "ObjLwM2M_Location/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8590,7 +8590,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_MQTT_Server/README.txt",
+            "url": "ObjLwM2M_MQTT_Server/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8631,7 +8631,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_OSCORE/README.txt",
+            "url": "ObjLwM2M_OSCORE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8690,7 +8690,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Routing/README.txt",
+            "url": "ObjLwM2M_Routing/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8731,7 +8731,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Security/README.txt",
+            "url": "ObjLwM2M_Security/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8796,7 +8796,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_Server/README.txt",
+            "url": "ObjLwM2M_Server/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8861,7 +8861,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ObjLwM2M_WLAN_Conn/README.txt",
+            "url": "ObjLwM2M_WLAN_Conn/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8914,7 +8914,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OneAPIProfileREST/README.txt",
+            "url": "OneAPIProfileREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -8985,7 +8985,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/OpenCMAPI/README.txt",
+            "url": "OpenCMAPI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9068,7 +9068,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PAL/README.txt",
+            "url": "PAL/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9145,7 +9145,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PCPS/README.txt",
+            "url": "PCPS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9192,7 +9192,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PDE/README.txt",
+            "url": "PDE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9293,7 +9293,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PEEM/README.txt",
+            "url": "PEEM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9364,7 +9364,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PIOSE/README.txt",
+            "url": "PIOSE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9417,7 +9417,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PSA/README.txt",
+            "url": "PSA/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9476,7 +9476,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PXPROF/README.txt",
+            "url": "PXPROF/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9523,7 +9523,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ParlayREST/README.txt",
+            "url": "ParlayREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9594,7 +9594,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PaymentREST/README.txt",
+            "url": "PaymentREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9653,7 +9653,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PoC/README.txt",
+            "url": "PoC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9856,7 +9856,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PresenceREST/README.txt",
+            "url": "PresenceREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -9909,7 +9909,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PresenceSIMPLE/README.txt",
+            "url": "PresenceSIMPLE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10076,7 +10076,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Privacy/README.txt",
+            "url": "Privacy/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10129,7 +10129,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Push/README.txt",
+            "url": "Push/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10224,7 +10224,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/PushRest/README.txt",
+            "url": "PushRest/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10277,7 +10277,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/RCC/README.txt",
+            "url": "RCC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10330,7 +10330,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/RCS_Deployment_Suite/README.txt",
+            "url": "RCS_Deployment_Suite/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10377,7 +10377,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/RESTNetAPIFileTransfer/README.txt",
+            "url": "RESTNetAPIFileTransfer/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10430,7 +10430,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/RESTNetAPI_Cap_Disc/README.txt",
+            "url": "RESTNetAPI_Cap_Disc/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10489,7 +10489,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NETAPI_MsgBCast/README.txt",
+            "url": "REST_NETAPI_MsgBCast/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10530,7 +10530,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NETAPI_NMS/README.txt",
+            "url": "REST_NETAPI_NMS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10589,7 +10589,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NETAPI_Twinning/README.txt",
+            "url": "REST_NETAPI_Twinning/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10642,7 +10642,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_ACR/README.txt",
+            "url": "REST_NetAPI_ACR/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10738,7 +10738,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_CAB/README.txt",
+            "url": "REST_NetAPI_CAB/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10791,7 +10791,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_Chat/README.txt",
+            "url": "REST_NetAPI_Chat/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10850,7 +10850,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_CommPatt/README.txt",
+            "url": "REST_NetAPI_CommPatt/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10897,7 +10897,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_Common/README.txt",
+            "url": "REST_NetAPI_Common/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10944,7 +10944,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_CustomerProfile/README.txt",
+            "url": "REST_NetAPI_CustomerProfile/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -10997,7 +10997,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_QoS/README.txt",
+            "url": "REST_NetAPI_QoS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11044,7 +11044,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_RCSProfile/README.txt",
+            "url": "REST_NetAPI_RCSProfile/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11121,7 +11121,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_RCSeProfile/README.txt",
+            "url": "REST_NetAPI_RCSeProfile/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11174,7 +11174,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_RichComms/README.txt",
+            "url": "REST_NetAPI_RichComms/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11227,7 +11227,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_WebRTCSignaling/README.txt",
+            "url": "REST_NetAPI_WebRTCSignaling/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11280,7 +11280,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/REST_NetAPI_ZonalPresence/README.txt",
+            "url": "REST_NetAPI_ZonalPresence/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11327,7 +11327,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/RICD/README.txt",
+            "url": "RICD/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11380,7 +11380,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/RME/README.txt",
+            "url": "RME/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11433,7 +11433,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/RoamAPI/README.txt",
+            "url": "RoamAPI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11486,7 +11486,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SACMO/README.txt",
+            "url": "SACMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11545,7 +11545,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SCAB/README.txt",
+            "url": "SCAB/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11598,7 +11598,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SCE/README.txt",
+            "url": "SCE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11657,7 +11657,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SCIDM/README.txt",
+            "url": "SCIDM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11716,7 +11716,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SCOMO/README.txt",
+            "url": "SCOMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11817,7 +11817,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SCWS/README.txt",
+            "url": "SCWS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -11942,7 +11942,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SEC_CF/README.txt",
+            "url": "SEC_CF/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12019,7 +12019,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SIMPLE_IM/README.txt",
+            "url": "SIMPLE_IM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12096,7 +12096,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SIP_Push/README.txt",
+            "url": "SIP_Push/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12155,7 +12155,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SNeW/README.txt",
+            "url": "SNeW/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12202,7 +12202,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SOAP_NetAPI_Roaming/README.txt",
+            "url": "SOAP_NetAPI_Roaming/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12255,7 +12255,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SRM/README.txt",
+            "url": "SRM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12332,7 +12332,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/STI/README.txt",
+            "url": "STI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12385,7 +12385,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SUPL/README.txt",
+            "url": "SUPL/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12588,7 +12588,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SUPLCS/README.txt",
+            "url": "SUPLCS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12635,7 +12635,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SUPM/README.txt",
+            "url": "SUPM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12676,7 +12676,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SVG/README.txt",
+            "url": "SVG/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12729,7 +12729,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ServUserProf/README.txt",
+            "url": "ServUserProf/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12788,7 +12788,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ShortMessREST/README.txt",
+            "url": "ShortMessREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12841,7 +12841,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SmaC/README.txt",
+            "url": "SmaC/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12888,7 +12888,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SpamRep/README.txt",
+            "url": "SpamRep/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12947,7 +12947,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/SyncML_Primer/README.txt",
+            "url": "SyncML_Primer/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -12994,7 +12994,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/TAS/README.txt",
+            "url": "TAS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13041,7 +13041,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/Template_NetAPI/README.txt",
+            "url": "Template_NetAPI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13082,7 +13082,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/TerminalLocationREST/README.txt",
+            "url": "TerminalLocationREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13141,7 +13141,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/TerminalStatusREST/README.txt",
+            "url": "TerminalStatusREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13206,7 +13206,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/ThirdPartyCallREST/README.txt",
+            "url": "ThirdPartyCallREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13253,7 +13253,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/UAProf/README.txt",
+            "url": "UAProf/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13343,7 +13343,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/UCD/README.txt",
+            "url": "UCD/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13384,7 +13384,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/URI_Schemes/README.txt",
+            "url": "URI_Schemes/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13437,7 +13437,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/UVE/README.txt",
+            "url": "UVE/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13484,7 +13484,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/VideoShareREST/README.txt",
+            "url": "VideoShareREST/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13531,7 +13531,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/VirMO/README.txt",
+            "url": "VirMO/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13584,7 +13584,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/WCSS/README.txt",
+            "url": "WCSS/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13625,7 +13625,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/WPBR/README.txt",
+            "url": "WPBR/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13666,7 +13666,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/WPKI/README.txt",
+            "url": "WPKI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13707,7 +13707,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/WRAPI/README.txt",
+            "url": "WRAPI/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13754,7 +13754,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/XDM/README.txt",
+            "url": "XDM/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -13987,7 +13987,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/XDM_PRS_IMPL/README.txt",
+            "url": "XDM_PRS_IMPL/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
@@ -14034,7 +14034,7 @@
         ],
         "publications": [
           {
-            "url": "http://www.openmobilealliance.org/release/vObject/README.txt",
+            "url": "vObject/README.txt",
             "file": "README.txt",
             "status": "",
             "version": "",
